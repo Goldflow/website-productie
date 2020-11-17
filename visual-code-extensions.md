@@ -24,7 +24,7 @@ Met deze extensie kunnen we icoontjes tonen in Visual Studio Code, wat het iets 
 
 [https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
-## Path Intellisense
+### Path Intellisense
 
 Als je aan software-ontwikkeling werkt, heb je vaak te maken met het bestandssysteem. Gewoonlijk is een andere taak om van context te wisselen tijdens de bewerking van het bestand om het daadwerkelijke bestandspad te bezoeken, het te kopiëren en in VSCode te plakken. De extensie "Path intesllisence" kan je helpen door bestandspaden automatisch aan te vullen wanneer je typt.
 
