@@ -197,3 +197,64 @@ Wat steekt er in die pagina?
 5.  `<meta charset="utf-8">`: Met dit element bepaal je dat de tekenset voor je document utf-8 zal zijn. In utf-8 steken bijna alle tekens die voor alle gekende menselijke talen worden gebruikt. In wezen houdt dit in dat je nu elke tekstinhoud aankan, die je erin zou willen steken. Er is geen reden om utf-8 niet aan charset toe te wijzen en het kan je helpen om later problemen te vermijden.
 6.  `<title></title>`: Dit element stelt de titel van je pagina in. Dat is de titel die in de browsertab verschijnt waarin je pagina wordt geladen. Hij wordt ook gebruikt om de pagina te beschrijven als je hem als bladwijzer/favoriet instelt.
 7.  `<body></body>`: Het `<body>-`element bevat de volledige inhoud die je aan webgebruikers wil tonen als die je pagina bezoeken, of het nu  tekst is, afbeeldingen, videos, spelletjes, afspeelbare audiosporen (audio tracks in het Engels)  of wat dan ook.
+
+
+## CSS: Cascading Style Sheets
+
+## Adding CSS to our document
+
+Het allereerste dat we moeten doen, is het HTML-document vertellen dat we enkele CSS-regels hebben die we willen gebruiken. Er zijn drie verschillende manieren om CSS toe te passen op een HTML-document dat u vaak tegenkomt, maar voorlopig zullen we kijken naar de meest gebruikelijke en nuttige manier om dit te doen: CSS koppelen vanuit de kop van uw document.
+
+Maak een bestand in dezelfde map als uw HTML-document en sla het op als `styles.css`. De extensie `.css` geeft aan dat dit een CSS-bestand is.
+
+Om styles.css te koppelen aan index.html, voegt u de volgende regel ergens in de <head> van het HTML-document toe:
+
+```
+<link rel="stylesheet" href="styles.css">
+```
+
+Dit [`<link>`] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link "Het HTML External Resource Link-element (<link>) specificeert relaties tussen het huidige document en een externe bron. Dit element wordt het meest gebruikt om te linken naar stylesheets, maar wordt ook gebruikt om sitepictogrammen vast te stellen (zowel 'favicon'-stijliconen als pictogrammen voor het startscherm en apps op mobiele apparaten).') element vertelt de browser dat we een stylesheet hebben, gebruikmakend van het `rel` attribuut, en de locatie van dat stylesheet als de waarde van het` href` attribuut. U kunt testen of de CSS werkt door een regel toe te voegen aan `styles.css`. Gebruik uw code-editor om het volgende toe te voegen aan uw CSS-bestand:
+
+```
+h1 {
+  color: red;
+}
+```
+
+Sla uw HTML- en CSS-bestanden op en laad de pagina opnieuw in een webbrowser. De kop van niveau één bovenaan het document moet nu rood zijn. Als dat gebeurt, gefeliciteerd - u hebt met succes wat CSS op een HTML-document toegepast. Als dat niet gebeurt, controleer dan zorgvuldig of je alles correct hebt getypt.
+
+## HTML-elementen opmaken
+
+Door onze kop rood te maken, hebben we al aangetoond dat we een HTML-element kunnen targeten en stylen. We doen dit door een _element selector_ te targeten - dit is een selector die direct overeenkomt met de naam van een HTML-element. Om alle alinea's in het document te targeten, gebruikt u de selector `p`. Om alle alinea's groen te maken, gebruikt u:
+
+```
+p {
+  color: green;
+}
+```
+
+U kunt meerdere selectors tegelijk targeten door de selectors te scheiden met een komma. Als ik wil dat alle alinea's en alle lijstitems groen zijn, ziet mijn regel er als volgt uit:
+
+```
+p, li {
+    color: green;
+}
+```
+
+---
+
+#### OPDRACHT: Profiel
+
+Maak een profiel aan met volgende vereisten:
+
+- Profiel foto van jezelf
+- Naam & Voornaam
+- Geboortedatum
+- Huidige job: dit mag fictief zijn
+- Vorige jobs: dit mag ook fictief zijn
+- Hobbies
+- Een video die je leuk vind (die kan bekeken worden op je profiel)
+- Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel)
+- Enkele favoriete websites
+- voeg nog 2 categoriën toe je die je leuk vind
+
