@@ -9,14 +9,15 @@ https://code.visualstudio.com/
 
 Visual Studio Code is in principe een soort van tekstverwerker, maar die heeft allerhande uitbreidingen, die ook wel "plugins" of  "extensions" worden genoemd die de applicatie tot een meer volwaardige tool maken.
 
-Voor deze les gaan we voorlopig de volgende extensies installeren:
+Voor deze les gaan we voorlopig de volgende extensies installeren. Je kan ofwel naar de link gaan, maar wat makkelijker is, is binnen Visual Studio Code zelf de extensie installeren.
 
-### Browser Preview
+Kijk bij HTML Preview om te zien hoe dat moet.
 
-Deze extensie wordt gebruikt om een echte browser in de VS Code-editor te openen om fouten op te sporen en de wijzigingen die je in de code hebt aangebracht te controleren, in plaats van ze elke keer in de browser te controleren. Je vindt de gedetailleerde informatie over de extensie in de volgende link.
+### HTML Preview
 
-https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview
+Met deze extensie kunnen we binnen Visual Studio onmiddelijk de aanpassingen zien die we uitvoeren in Visual Studio Code.
 
+![install-html-preview-extension.gif](install-html-preview-extension.gif)
 
 ### Visual Studio Icons
 

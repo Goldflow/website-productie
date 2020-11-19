@@ -110,9 +110,60 @@ Een attribuut bestaat uit:
 
 Bewerk de regel in het _invoer-gebied_ hieronder en verander hem in een hyperlink naar je favoriete website. Eerst voeg je het `<a>-`element toe, dan het `href-`attribuut en dan het `title-`attribuut. Je zal de verandering live kunnen updaten in het _uitvoer-gebied_. Je zou een link moeten zien die de inhoud van het `title`-attribuut toont als je met je muis over de link heen glijdt. Als je erop klikt zou je naar het webadres moeten worden gebracht dat in het href-element staat. Vergeet niet dat je een spatie tussen de elementnaam en elk attribuut moet plaatsen.
 
-### Oefening attributen
+### Oefening: HTML Preview gebruiken
 
-Hier de [link naar de oefening](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Actief_leren_Attributen_aan_een_element_toevoegen)
+#### Voor je begint
+
+Vergeet niet HTML Preview extensie te installeren. Dat doe je op deze manier:
+
+![../install-html-preview-extension.gif](../install-html-preview-extension.gif)
+
+#### Gebruik van HTML Preview
+
+Vervolgens om te zien wat je verandert, open je html file en vervolgens druk je op:
+
+    CTRL+"k" dan druk je op "v" (windows)
+    CMD+"k" dan druk je op "v" (MAC)
+
+Je kan hier zien hoe je dat doet:
+
+![](use-html-preview-extension.gif)
+
+
+### Een link maken of anchor (anker) element
+
+[`<a>`](https://developer.mozilla.org/nl/docs/Web/HTML/Element/a "Het HTML <a> element (of anker element) maakt een hyperlink naar andere web pagina's, bestanden, lokaties binnen dezelfde pagina, email-adressen of een andere URL.") is ook een element — het vertegenwoordigt een anker en verandert de tekst die het insluit in een hyperlink. Dit element kan een aantal attributen krijgen, twee ervan zijn de volgende:
+
+* `href`: De waarde van dit attribuut is het webadres waar je de link naar wil doen wijzen en waar de browser naartoe navigeert als er op de link wordt geklikt. Bijvoorbeeld:  `href="https://www.mozilla.org/"`.
+* `title`: Dit attribuut verschaft exta informatie over de link, zoals de aard van de pagina waarmee het anker ons verbindt. Bijvoorbeeld: `title="The Mozilla homepage"`. Dit attribuut zal als een tooltip verschijnen als de muis erover heen beweegt.
+
+### OPDRACHT: attributen (link)
+
+We hebben gezien wat opening & closing tags zijn en wat een element is (de tags + de inhoud tussen de tags).
+
+We hebben in het vorige hoofdstuk ook gezien wat een attribuut is. De bedoeling is nu dat we bij dit stuk html een link toevoegen:
+
+  `<p> link naar een tekst </p>`
+
+Maak een nieuw html bestand:
+Druk op File > New, vervolgens doe je onmiddelijk: File > Save As.
+
+- het moet eindigen op .html
+- er mogen geen spaties of speciale tekens
+- alles in lower case
+- je eigen naam moet er in voorkomen
+
+bv:
+    link_opdracht_karim.html
+
+Eenmaal je het bestand hebt opgeslaan, open je de bijhorende preview zoals beschreven in het hoofdstuk: Gebruik van HTML Preview
+
+ Verander deze code in een hyperlink naar je favoriete website.
+ 
+   `<p> link naar een tekst </p>`
+   
+ Eerst voeg je het `<a>-`element toe, dan het `href-`attribuut en dan het `title-`attribuut. Je zal de verandering live kunnen updaten in het _uitvoer-gebied_. Je zou een link moeten zien die de inhoud van het `title`-attribuut toont als je met je muis over de link heen glijdt. Als je erop klikt zou je naar het webadres moeten worden gebracht dat in het href-element staat. Vergeet niet dat je een spatie tussen de elementnaam en elk attribuut moet plaatsen.
+
 
 ## Anatomie van een HTML-document
 
