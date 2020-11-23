@@ -110,9 +110,60 @@ Een attribuut bestaat uit:
 
 Bewerk de regel in het _invoer-gebied_ hieronder en verander hem in een hyperlink naar je favoriete website. Eerst voeg je het `<a>-`element toe, dan het `href-`attribuut en dan het `title-`attribuut. Je zal de verandering live kunnen updaten in het _uitvoer-gebied_. Je zou een link moeten zien die de inhoud van het `title`-attribuut toont als je met je muis over de link heen glijdt. Als je erop klikt zou je naar het webadres moeten worden gebracht dat in het href-element staat. Vergeet niet dat je een spatie tussen de elementnaam en elk attribuut moet plaatsen.
 
-### Oefening attributen
+### Oefening: HTML Preview gebruiken
 
-Hier de [link naar de oefening](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Actief_leren_Attributen_aan_een_element_toevoegen)
+#### Voor je begint
+
+Vergeet niet HTML Preview extensie te installeren. Dat doe je op deze manier:
+
+![../install-html-preview-extension.gif](../install-html-preview-extension.gif)
+
+#### Gebruik van HTML Preview
+
+Vervolgens om te zien wat je verandert, open je html file en vervolgens druk je op:
+
+    CTRL+"k" dan druk je op "v" (windows)
+    CMD+"k" dan druk je op "v" (MAC)
+
+Je kan hier zien hoe je dat doet:
+
+![](use-html-preview-extension.gif)
+
+
+### Een link maken of anchor (anker) element
+
+[`<a>`](https://developer.mozilla.org/nl/docs/Web/HTML/Element/a "Het HTML <a> element (of anker element) maakt een hyperlink naar andere web pagina's, bestanden, lokaties binnen dezelfde pagina, email-adressen of een andere URL.") is ook een element — het vertegenwoordigt een anker en verandert de tekst die het insluit in een hyperlink. Dit element kan een aantal attributen krijgen, twee ervan zijn de volgende:
+
+* `href`: De waarde van dit attribuut is het webadres waar je de link naar wil doen wijzen en waar de browser naartoe navigeert als er op de link wordt geklikt. Bijvoorbeeld:  `href="https://www.mozilla.org/"`.
+* `title`: Dit attribuut verschaft exta informatie over de link, zoals de aard van de pagina waarmee het anker ons verbindt. Bijvoorbeeld: `title="The Mozilla homepage"`. Dit attribuut zal als een tooltip verschijnen als de muis erover heen beweegt.
+
+### OPDRACHT: attributen (link)
+
+We hebben gezien wat opening & closing tags zijn en wat een element is (de tags + de inhoud tussen de tags).
+
+We hebben in het vorige hoofdstuk ook gezien wat een attribuut is. De bedoeling is nu dat we bij dit stuk html een link toevoegen:
+
+  `<p> link naar een tekst </p>`
+
+Maak een nieuw html bestand:
+Druk op File > New, vervolgens doe je onmiddelijk: File > Save As.
+
+- het moet eindigen op .html
+- er mogen geen spaties of speciale tekens
+- alles in lower case
+- je eigen naam moet er in voorkomen
+
+bv:
+    link_opdracht_karim.html
+
+Eenmaal je het bestand hebt opgeslaan, open je de bijhorende preview zoals beschreven in het hoofdstuk: Gebruik van HTML Preview
+
+ Verander deze code in een hyperlink naar je favoriete website.
+ 
+   `<p> link naar een tekst </p>`
+   
+ Eerst voeg je het `<a>-`element toe, dan het `href-`attribuut en dan het `title-`attribuut. Je zal de verandering live kunnen updaten in het _uitvoer-gebied_. Je zou een link moeten zien die de inhoud van het `title`-attribuut toont als je met je muis over de link heen glijdt. Als je erop klikt zou je naar het webadres moeten worden gebracht dat in het href-element staat. Vergeet niet dat je een spatie tussen de elementnaam en elk attribuut moet plaatsen.
+
 
 ## Anatomie van een HTML-document
 
@@ -146,3 +197,64 @@ Wat steekt er in die pagina?
 5.  `<meta charset="utf-8">`: Met dit element bepaal je dat de tekenset voor je document utf-8 zal zijn. In utf-8 steken bijna alle tekens die voor alle gekende menselijke talen worden gebruikt. In wezen houdt dit in dat je nu elke tekstinhoud aankan, die je erin zou willen steken. Er is geen reden om utf-8 niet aan charset toe te wijzen en het kan je helpen om later problemen te vermijden.
 6.  `<title></title>`: Dit element stelt de titel van je pagina in. Dat is de titel die in de browsertab verschijnt waarin je pagina wordt geladen. Hij wordt ook gebruikt om de pagina te beschrijven als je hem als bladwijzer/favoriet instelt.
 7.  `<body></body>`: Het `<body>-`element bevat de volledige inhoud die je aan webgebruikers wil tonen als die je pagina bezoeken, of het nu  tekst is, afbeeldingen, videos, spelletjes, afspeelbare audiosporen (audio tracks in het Engels)  of wat dan ook.
+
+
+## CSS: Cascading Style Sheets
+
+## Adding CSS to our document
+
+Het allereerste dat we moeten doen, is het HTML-document vertellen dat we enkele CSS-regels hebben die we willen gebruiken. Er zijn drie verschillende manieren om CSS toe te passen op een HTML-document dat u vaak tegenkomt, maar voorlopig zullen we kijken naar de meest gebruikelijke en nuttige manier om dit te doen: CSS koppelen vanuit de kop van uw document.
+
+Maak een bestand in dezelfde map als uw HTML-document en sla het op als `styles.css`. De extensie `.css` geeft aan dat dit een CSS-bestand is.
+
+Om styles.css te koppelen aan index.html, voegt u de volgende regel ergens in de <head> van het HTML-document toe:
+
+```
+<link rel="stylesheet" href="styles.css">
+```
+
+Dit [`<link>`] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link "Het HTML External Resource Link-element (<link>) specificeert relaties tussen het huidige document en een externe bron. Dit element wordt het meest gebruikt om te linken naar stylesheets, maar wordt ook gebruikt om sitepictogrammen vast te stellen (zowel 'favicon'-stijliconen als pictogrammen voor het startscherm en apps op mobiele apparaten).') element vertelt de browser dat we een stylesheet hebben, gebruikmakend van het `rel` attribuut, en de locatie van dat stylesheet als de waarde van het` href` attribuut. U kunt testen of de CSS werkt door een regel toe te voegen aan `styles.css`. Gebruik uw code-editor om het volgende toe te voegen aan uw CSS-bestand:
+
+```
+h1 {
+  color: red;
+}
+```
+
+Sla uw HTML- en CSS-bestanden op en laad de pagina opnieuw in een webbrowser. De kop van niveau één bovenaan het document moet nu rood zijn. Als dat gebeurt, gefeliciteerd - u hebt met succes wat CSS op een HTML-document toegepast. Als dat niet gebeurt, controleer dan zorgvuldig of je alles correct hebt getypt.
+
+## HTML-elementen opmaken
+
+Door onze kop rood te maken, hebben we al aangetoond dat we een HTML-element kunnen targeten en stylen. We doen dit door een _element selector_ te targeten - dit is een selector die direct overeenkomt met de naam van een HTML-element. Om alle alinea's in het document te targeten, gebruikt u de selector `p`. Om alle alinea's groen te maken, gebruikt u:
+
+```
+p {
+  color: green;
+}
+```
+
+U kunt meerdere selectors tegelijk targeten door de selectors te scheiden met een komma. Als ik wil dat alle alinea's en alle lijstitems groen zijn, ziet mijn regel er als volgt uit:
+
+```
+p, li {
+    color: green;
+}
+```
+
+---
+
+#### OPDRACHT: Profiel
+
+Maak een profiel aan met volgende vereisten:
+
+- Profiel foto van jezelf
+- Naam & Voornaam
+- Geboortedatum
+- Huidige job: dit mag fictief zijn
+- Vorige jobs: dit mag ook fictief zijn
+- Hobbies
+- Een video die je leuk vind (die kan bekeken worden op je profiel)
+- Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel)
+- Enkele favoriete websites
+- voeg nog 2 categoriën toe je die je leuk vind
+
