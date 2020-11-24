@@ -160,18 +160,19 @@ HTML voorbeeld:
 <p class="box">Enkele deze paragraaf zal geselecteerd worden</p>
 <p>Deze paragraaf heeft geen klasse en zal niet geselecteerd worden.</p>
 ```
-
+CSS Voorbeeld:
 ```CSS
 .box { }
 ```
 
 #### ID Selector
 
+HTML Voorbeeld:
 ```HTML
 <p id="unique">Enkele deze paragraaf zal geselecteerd worden</p>
 <p>Deze paragraaf heeft geen id en zal niet geselecteerd worden.</p>
 ```
-
+CSS Voorbeeld:
 ```CSS
 #unique { }
 ```
