@@ -1,4 +1,4 @@
-# Website Productie: Les 1
+# Les 1: Introductie HTML & CSS
 
 ## Het verhaal van uw eerste website
 
@@ -20,7 +20,7 @@ My cat is very grumpy
 
 Stel dat we van deze regel een paragraaf wilden maken, dan zouden we dat doen door deze regel met ([`<p>`](https://developer.mozilla.org/nl/docs/Web/HTML/Element/p "Het <p>-element van HTML vertegenwoordigt een paragraaf van tekst. Paragrafen worden meestal vertegenwoordigd in visuele media als blokken tekst, die worden gescheiden van aangrenzende blokken door verticale witruimte en/of inspringing op de eerste regel. Paragrafen zijn elementen op blokniveau.")) paragraaflabels te omhullen:
 
-```
+```html
 <p>My cat is very grumpy</p>
 ```
 
@@ -45,13 +45,13 @@ Ga naar [deze link](https://developer.mozilla.org/nl/docs/Learn/HTML/Introductio
 
 Je kan elementen in andere elementen steken - we noemen dit **nesten**. Als we willen zeggen dat our cat VERY grumpy is, kunnen we het woord "very" in een `<strong>`-element insluiten. Dat zorgt ervoor dat het woord wordt beklemtoond:
 
-```
+```html
 <p>My cat is <strong>very</strong> grumpy.</p>
 ```
 
 Je moet er echter wel voor zorgen dat je elementen correct worden genest: in het voorbeeld hierboven openden we het  `<p>`-element eerst en dan het `<strong>`-element.  Dus moeten we `<strong>` eerst sluiten en dan `<p>`. Het volgende is fout:
 
-```
+```html
 <p>My cat is <strong>very grumpy.</p></strong>
 ```
 
@@ -59,7 +59,7 @@ De elementen moeten correct worden geopend en gesloten zodat ze duidelijk in of 
 
 Juist:
 
-```
+```html
 <p>My cat is <strong>very grumpy.</strong></p>
 ```
 
@@ -72,7 +72,7 @@ Elementen in HTML kunnen in twee belangrijke categorieën worden ingedeeld: elem
 
 Bekijk het volgende voorbeeld eens:
 
-```
+```html
 <em>eerste</em><em>tweede</em><em>derde</em>
 
 <p>vierde</p><p>vijfde</p><p>zesde</p>
@@ -82,7 +82,7 @@ Bekijk het volgende voorbeeld eens:
 
 Niet alle elementen volgen hetzelfde patroon met een openingslabel, inhoud en eindlabel. Sommige elementen bestaan uit één enkel label, dat meestal wordt gebruikt om iets in de inhoud in te voegen/in te bedden. Het [`<img>`](https://developer.mozilla.org/nl/docs/Web/HTML/Element/img "The documentation about this has not yet been written; please consider contributing!")-element bijvoorbeeld voegt een afbeelding aan de pagina toe op de plaats waar het het element in de code is geplaatst:
 
-```
+```html
 <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png">
 ```
 
@@ -215,7 +215,7 @@ Om styles.css te koppelen aan index.html, voegt u de volgende regel ergens in de
 
 Dit [`<link>`] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link "Het HTML External Resource Link-element (<link>) specificeert relaties tussen het huidige document en een externe bron. Dit element wordt het meest gebruikt om te linken naar stylesheets, maar wordt ook gebruikt om sitepictogrammen vast te stellen (zowel 'favicon'-stijliconen als pictogrammen voor het startscherm en apps op mobiele apparaten).') element vertelt de browser dat we een stylesheet hebben, gebruikmakend van het `rel` attribuut, en de locatie van dat stylesheet als de waarde van het` href` attribuut. U kunt testen of de CSS werkt door een regel toe te voegen aan `styles.css`. Gebruik uw code-editor om het volgende toe te voegen aan uw CSS-bestand:
 
-```
+```html
 h1 {
   color: red;
 }
@@ -227,7 +227,7 @@ Sla uw HTML- en CSS-bestanden op en laad de pagina opnieuw in een webbrowser. De
 
 Door onze kop rood te maken, hebben we al aangetoond dat we een HTML-element kunnen targeten en stylen. We doen dit door een _element selector_ te targeten - dit is een selector die direct overeenkomt met de naam van een HTML-element. Om alle alinea's in het document te targeten, gebruikt u de selector `p`. Om alle alinea's groen te maken, gebruikt u:
 
-```
+```html
 p {
   color: green;
 }
@@ -235,7 +235,7 @@ p {
 
 U kunt meerdere selectors tegelijk targeten door de selectors te scheiden met een komma. Als ik wil dat alle alinea's en alle lijstitems groen zijn, ziet mijn regel er als volgt uit:
 
-```
+```html
 p, li {
     color: green;
 }
@@ -243,18 +243,17 @@ p, li {
 
 ---
 
-#### OPDRACHT: Profiel
+### OPDRACHT: Profiel
 
 Maak een profiel aan met volgende vereisten:
 
-- Profiel foto van jezelf
-- Naam & Voornaam
-- Geboortedatum
-- Huidige job: dit mag fictief zijn
-- Vorige jobs: dit mag ook fictief zijn
-- Hobbies
-- Een video die je leuk vind (die kan bekeken worden op je profiel)
-- Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel)
-- Enkele favoriete websites
-- voeg nog 2 categoriën toe je die je leuk vind
-
+* Profiel foto van jezelf
+* Naam & Voornaam
+* Geboortedatum
+* Huidige job: dit mag fictief zijn
+* Vorige jobs: dit mag ook fictief zijn
+* Hobbies
+* Een video die je leuk vind (die kan bekeken worden op je profiel)
+* Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel)
+* Enkele favoriete websites
+* voeg nog 2 categoriën toe je die je leuk vindt
