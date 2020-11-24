@@ -135,19 +135,42 @@ Er zijn een paar verschillende groepen selectors, en als u weet welk type select
 
 ### Type, class, and ID selectors
 
-Deze groep bevat selectors die gericht zijn op een HTML-element zoals een `<h1>`.
+Deze groep bevat selectors.
 
+#### Element Selector
+
+Een selector die gericht is op een HTML-element zoals een `<h1>`.
+
+HTML voorbeeld:
+```HTML
+<h1>Titel</h1>
+```
+
+CSS voorbeeld:
 ```CSS
 h1 { }
 ```
 
+#### Class Selector
+
 Het bevat ook selectors die gericht zijn op een klasse:
+
+HTML voorbeeld:
+```HTML
+<p class="box">Enkele deze paragraaf zal geselecteerd worden</p>
+<p>Deze paragraaf heeft geen klasse en zal niet geselecteerd worden.</p>
+```
 
 ```CSS
 .box { }
 ```
 
-of een ID:
+#### ID Selector
+
+```HTML
+<p id="unique">Enkele deze paragraaf zal geselecteerd worden</p>
+<p>Deze paragraaf heeft geen id en zal niet geselecteerd worden.</p>
+```
 
 ```CSS
 #unique { }
@@ -177,18 +200,49 @@ a:hover { }
 
 Het bevat ook pseudo-elementen, die een bepaald deel van een element selecteren in plaats van het element zelf. Bijvoorbeeld: `:: first-line` selecteert altijd de eerste regel tekst in een element (a `<p>` in het onderstaande geval), en doet alsof een `<span>` rond de eerste opgemaakte regel is gewikkeld en vervolgens geselecteerd.
 
+CSS voorbeeld:
 ```CSS
 p::first-line { }
+```
+
+Om eerste element van een bepaald type te selecteren:
+
+CSS voorbeeld:
+```CSS
+p:first-of-type
 ```
 
 ### Combinators
 
 De laatste groep selectors combineert andere selectors om elementen in onze documenten te targeten. Het volgende selecteert bijvoorbeeld alinea's die directe kinderen zijn van `<article>`  - elementen met behulp van de kindcombinator (`>`):
 
+HTML voorbeeld
+```HTML
+<article>
+    <p>Deze paragraaf zal geselecteerd worden</p>
+</article>
+<p>Deze paragraaf zal NIET geselecteerd worden</p>
+```
+
+CSS voorbeeld:
 ```CSS
 article > p { }
 ```
+
 ---
+
+
+
+### Universal selector
+
+De universele selector wordt aangegeven met een asterisk (*). Het selecteert alles in het document (of binnen het bovenliggende element als het wordt samengeketend met een ander element en een onderliggende combinator). In het volgende voorbeeld gebruiken we de universele selector om de marges op alle elementen te verwijderen. In plaats van de standaardstijl die door de browser is toegevoegd - die koppen en alinea's met marges uit elkaar plaatst - staat alles dicht bij elkaar.
+
+```CSS
+* {
+    margin: 0;
+}
+```
+
 
 ### OPDRACHT: CSS Dinner
 
