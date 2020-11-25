@@ -253,3 +253,6 @@ Ga naar [de pagina voor CSS Dinner](https://flukeout.github.io/) en begin de oef
 
 [Bekijk deze video om uitleg te krijgen hoe je de oefening doet.](uitleg-cssdinner.mkv)
 
+<video controls>
+<source src="uitleg-cssdinner.mkv">
+</video>
