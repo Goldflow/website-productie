@@ -20,6 +20,12 @@ Pas deze HTML aan zodat je er structuur in krijgt. Gebruik op zijn minst de volg
 
 Hier [de link naar tekst](https://codepen.io/GoldFlow/pen/yLaNRgZ) waar je structuur in moet plaatsen
 
+Je mag de HTML bestand indienen of de link naar je codepen, maar zorg dan zeker dat je die niet meer aanpast zodat ik de juiste versie zie.
+
+<video width="600" controls>
+<source src="recept-opdracht.mkv">
+</video>
+
 ### OPDRACHT: Profiel
 
 Maak een profiel aan met volgende vereisten:
@@ -41,6 +47,11 @@ Maak een profiel aan met volgende vereisten:
 * Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst
 * Gebruik op zijn minst 2 andere kleuren dan zwart
 
+Video met meer uitleg:
+
+<video width="600" controls>
+<source src="profiel-opdracht.mkv">
+</video>
 
 ### Visual Studio Code
 
