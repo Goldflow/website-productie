@@ -241,19 +241,3 @@ p, li {
 }
 ```
 
----
-
-### OPDRACHT: Profiel
-
-Maak een profiel aan met volgende vereisten:
-
-* Profiel foto van jezelf
-* Naam & Voornaam
-* Geboortedatum
-* Huidige job: dit mag fictief zijn
-* Vorige jobs: dit mag ook fictief zijn
-* Hobbies
-* Een video die je leuk vind (die kan bekeken worden op je profiel)
-* Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel)
-* Enkele favoriete websites
-* voeg nog 2 categoriën toe je die je leuk vindt
