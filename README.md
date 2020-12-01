@@ -26,6 +26,12 @@ Je mag de HTML bestand indienen of de link naar je codepen, maar zorg dan zeker 
 <source src="recept-opdracht.mkv">
 </video>
 
+Voor de naarsteige strevers die stijl willen toevoegen:
+
+<video width="600" controls>
+<source src="stijl-toevoegen-inline.mkv">
+</video>
+
 ### OPDRACHT: Profiel
 
 Maak een profiel aan met volgende vereisten:
