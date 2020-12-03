@@ -6,6 +6,8 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [Les 2](./les_02/README.md)
 
+[Les 3](./les_03/README.md)
+
 ### OPDRACHT: Maak een receptpagina op
 
 Structuur brengen in recept voor Hummus
