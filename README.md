@@ -2,11 +2,11 @@
 
 Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
-[Les 1](./les_01/README.md)
+[Les 1](./les_01)
 
-[Les 2](./les_02/README.md)
+[Les 2](./les_02)
 
-[Les 3](./les_03/README.md)
+[Les 3](./les_03)
 
 ### OPDRACHT: Maak een receptpagina op
 

@@ -144,7 +144,7 @@ De laatste stap is om elk lijstonderdeel in een [`<li>`](https://developer.mozil
 
 Probeer het live voorbeeld hieronder te bewerken om zo je eigen ongeordende lijst te maken.
 
-[Actief leren: Een geordende lijst opmaken](https://codepen.io/GoldFlow/pen/zYKGmYQ)
+[Actief leren: Een geordende lijst opmaken](https://codepen.io/GoldFlow/pen/WNGvgyZ?editors=1100)
 
 ### Geordend
 
