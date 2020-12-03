@@ -8,6 +8,16 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [Les 3](./les_03)
 
+### OPDRACHT: CSS Dinner
+
+Probeer tot level 22 te raken: https://flukeout.github.io/
+
+Hieronder kan je zien hoe je de opdracht moet indienen:
+
+<video width="600" controls>
+<source src="indienen-cssdinner.mkv">
+</video>
+
 ### OPDRACHT: Maak een receptpagina op
 
 Structuur brengen in recept voor Hummus
@@ -55,11 +65,26 @@ Maak een profiel aan met volgende vereisten:
 * Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst
 * Gebruik op zijn minst 2 andere kleuren dan zwart
 
-Video met meer uitleg:
+Video met meer uitleg over de opdracht.
 
 <video width="600" controls>
 <source src="profiel-opdracht.mkv">
 </video>
+
+Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbeeld facebook.
+
+<video width="600" controls>
+<source src="profiel-foto-toevoegen.mkv">
+</video>
+
+Deze video leg ik uit hoe je zelf stijlen kan opzoeken. Leer Googelen!!!
+
+<video width="600" controls>
+<source src="zelf-stijlen-opzoeken.mkv">
+</video>
+
+
+
 
 ### Visual Studio Code
 
