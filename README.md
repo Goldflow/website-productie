@@ -8,6 +8,8 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [Les 3](./les_03)
 
+[Les 4](./les_04)
+
 ### OPDRACHT: CSS Dinner
 
 Probeer tot level 22 te raken: https://flukeout.github.io/
