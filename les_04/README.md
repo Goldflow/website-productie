@@ -18,7 +18,7 @@ Hyperlinks zijn een van de meest opwindende vernieuwingen die het web ons biedt.
 
 De startpagina van deze portfolio bijvoorbeeld bevat een aantal koppelingen die naar verschillende gebieden van de website gaan; Home, Portfolio, Resume, Contact...
 
-![Portfolio van Jasper Kindt](portfolio-jasper.png)
+![Portfolio van Jasper Kindt](portfolio-jasper.PNG)
 
 ### Anatomie van een koppeling
 
@@ -80,6 +80,14 @@ URL’s gebruiken paden om bestanden te vinden. Paden tonen ons waar een bestand
 
 ![Een eenvoudige mapstructuur. De bovenliggende map heet creating-hyperlinks en bevat twee bestanden met de naam index.html en contacts.html, en twee mappen met de naam projects en pdfs, die respectievelijk een bestand index.html en een bestand project-brief.pdf bevatten](https://mdn.mozillademos.org/files/12409/simple-directory.png)
 
+Je kan het project [hier downloaden](creating-hyperlinks.zip)
+
+In onderstaande video leg ik uit hoe je het project kan extracten / openen op je computer:
+
+<video width="600" controls>
+<source src="hoe-project-extracten.mkv">
+</video>
+
 De **hoofdmap** van deze mapstructuur heet `creating-hyperlinks`. Als je op uw lokale computer aan een website werkt, zul je een map hebben waarbinnen de volledige website zich bevindt. In de hoofdmap hebben we een bestand `index.html` en een `contacts.html`. Op een echte website zou `index.html` onze startpagina of landingspagina zijn (een webpagina die als het startpunt voor een website of een bepaalde sectie van een website dient).
 
 In onze hoofdmap zitten ook twee andere mappen – `pdfs` en `projects`. In elk van hen steekt één bestand – respectievelijk een PDF-bestand (`project-brief.pdf`) en een `index.html-bestand`. Twee `index.html`-bestanden kunnnen dus heel goed in één project bestaan, zolang ze op verschillende locaties in het bestandsysteem zijn opgeslagen. Bij veel websites is dit het geval. De tweede `index.html` is misschien de landingspagina voor projectgerelateerde informatie. (Tussen haakjes: een **landingspagina** is een pagina op uw website die specifiek is ingericht voor bezoekers die op die pagina binnenkomen (landen). De bezoeker kan op uw pagina landen via een zoekopdracht of bijvoorbeeld een online- of offlinecampagne die hem of haar naar die specfieke pagina stuurt.)
@@ -93,15 +101,21 @@ In onze hoofdmap zitten ook twee andere mappen – `pdfs` en `projects`. In elk 
 
 * **Afdalen naar submappen**: stel dat je opnieuw een hyperlink aan het bestand `index.html` in de hoofdmap wilt toevoegen, maar deze keer wijst de hyperlink naar `projects/index.html`. In dat geval zou je omlaag naar de map `projects` moeten gaan voordat je het bestand aangeeft waarnaar je wilt verwijzen. Dit doe je door eerst de naam van de map te noteren, dan een voorwaartse schuine streep te schrijven, en dan de naam van het bestand. De URL zal er dus zo uitzien: `projects/index.html`:
 
-    ```
+    ```HTML
     <p>Bezoek mijn <a href="projects/index.html">project-startpagina</a>.</p>
     ```
 
 * **Teruggaan naar bovenliggende mappen**: als je een hyperlink in `projects/index.html` wilt plaatsen en je wilt dat die koppeling naar `pdfs/project-brief.pdf` wijst, moet je een niveau omhoog gaan, en dan opnieuw omlaag naar de map `pdf`. ‘Naar een bovenliggende map gaan’ wordt aangegeven via twee puntjes – `..` – dus de te gebruiken URL is `../pdfs/project-brief.pdf`:
 
-    ```
+    ```HTML
     <p>Een hyperlink naar mijn <a href="../pdfs/project-brief.pdf">projectsamenvatting</a>.</p>
     ```
+
+Hier leg ik uit hoe je een submap kan linken:
+
+<video width="600" controls>
+<source src="submap-links.mkv">
+</video>
 
 **Noot**: zo nodig kun je meerdere instanties van deze eigenschappen in complexe URL’s combineren, bijvoorbeeld `../../../complex/pad/naar/mijn/bestand.html`.
 
@@ -109,19 +123,19 @@ In onze hoofdmap zitten ook twee andere mappen – `pdfs` en `projects`. In elk 
 
 Het is mogelijk om naar een specifiek deel van een HTML-document te verwijzen. Dit specifieke deel noemen we een **documentfragment**. Om dit te doen heb je een `[id](https://developer.mozilla.org/nl/docs/Web/HTML/Global_attributes#attr-id)`-attribuut nodig. U moet het toekennen aan het element waarnaar je uw hyperlink wilt laten wijzen. Het is meestal zinvol om er een geschikte kop voor te gebruiken. Die kop zal er ongeveer zo uitzien:
 
-```
+```HTML
 <h2 id="E-mailadres">E-mailadres</h2>
 ```
 
 Om dan naar dat specifieke `id` te verwijzen, voeg je de inhoud van het id aan het einde van de URL toe, voorafgegaan door een hekje (#). Voorbeeld:
 
-```
+```HTML
 <p>Wil je ons een brief schrijven? Gebruik dan ons <a href="contacts.html#e-mailadres">e-mailadres</a>.</p>
 ```
 
 U kunt het documentfragment zelfs aan _een ander deel van hetzelfde document_ koppelen:
 
-```
+```HTML
 <p>Het<a href="#e-mailadres">e-mailadres van ons bedrijf</a> vind je onderaan de pagina.</p>
 ```
 
@@ -216,7 +230,7 @@ Als je een koppeling naar een bron schrijft die beter kan worden gedownload dan 
 </a>
 ```
 
-## 4.4 Actief leren: een navigatiemenu maken
+## 4.4 OPDRACHT: een navigatiemenu maken
 
 Voor deze oefening willen we dat je een paar pagina’s naar elkaar laat verwijzen met een navigatiemenu. Zo kun je een website maken die uit meerdere pagina’s bestaat. Dit is een gebruikelijke manier – dezelfde paginastructuur wordt op elke pagina herhaald, inclusief het navigatiemenu. Als je dus op de koppelingen klikt, heb je de indruk dat je op dezelfde plek blijft en dat er verschillende inhoud wordt getoond.
 
@@ -226,6 +240,8 @@ U hebt lokale kopieën van de volgende vier pagina’s nodig, alle vier in dezel
 * [projects.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/navigation-menu-start/projects.html)
 * [pictures.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/navigation-menu-start/pictures.html)
 * [social.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/navigation-menu-start/social.html)
+
+[Download hier de zip file van de 4 bovenstaande bestanden om te beginnen aan de oefening.](../basis/navigation-menu-start.zip)
 
 Wat je moet doen:
 
@@ -275,3 +291,37 @@ Dit zijn enkele voorbeelden van `mailto`-URL’s:
 * mailto:nowhere@mozilla.org,nobody@mozilla.org
 * mailto:nowhere@mozilla.org?cc=nobody@mozilla.org
 * mailto:nowhere@mozilla.org?cc=nobody@mozilla.org&subject=Dit%20is%20het%20onderwerp
+
+
+# 4.6 Hoe de theorie toepassen in Visual Code
+
+#### Hoe een nieuw html bestand te maken
+
+<video width="600" controls>
+<source src="nieuw-html-bestand.mkv">
+</video>
+
+#### Hoe een project extracten op je computer
+
+<video width="600" controls>
+<source src="hoe-project-extracten.mkv">
+</video>
+
+#### Hoe link maken in Visual Studio Code
+
+<video width="600" controls>
+<source src="maak-hyperlink.mkv">
+</video>
+
+#### Hoe intellisense gebruiken in Visual Studio Code
+
+<video width="600" controls>
+<source src="href-maken-intellisense.mkv">
+</video>
+
+
+#### Hoe submap links te maken
+
+<video width="600" controls>
+<source src="submap-links.mkv">
+</video>
