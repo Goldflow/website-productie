@@ -310,7 +310,7 @@ Dit zijn enkele voorbeelden van `mailto`-URL’s:
 #### Hoe link maken in Visual Studio Code
 
 <video width="600" controls>
-<source src="maak-hyperlink.mkv">
+<source src="hoe-link-maken.mkv">
 </video>
 
 #### Hoe intellisense gebruiken in Visual Studio Code

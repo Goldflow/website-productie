@@ -3,7 +3,7 @@
 ## Visual Code installatie
 
 Je kan Visual Studio Code hier installeren:
-https://code.visualstudio.com/
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ## Visual Code Extensions
 
