@@ -14,13 +14,13 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 ## Overzicht Opdrachten
 
-[OPDRACHT: CSS Dinner](https://github.com/Goldflow/website-productie/tree/main/opdracht-css-dinner) tegen 12/12/2020
+[OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 12/12/2020
 
-[OPDRACHT: Recept Pagina Opmaken](https://github.com/Goldflow/website-productie/tree/main/opdracht-recept) tegen 12/12/2020
+[OPDRACHT: Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) tegen 12/12/2020
 
-[OPDRACHT: Profiel](https://github.com/Goldflow/website-productie/tree/main/opdracht-profiel) tegen 19/12/2020
+[OPDRACHT: Profiel](https://goldflow.github.io/website-productie/opdracht-profiel/) tegen 19/12/2020, indienen als zip bestand
 
-
+[OPDRACHT: Navigatie Menu](https://goldflow.github.io/website-productie/opdracht-navigatie-menu/) tegen 19/12/2020, indienen als zip bestand
 
 ## Overzicht Tooling
 

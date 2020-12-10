@@ -241,7 +241,7 @@ U hebt lokale kopieën van de volgende vier pagina’s nodig, alle vier in dezel
 * [pictures.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/navigation-menu-start/pictures.html)
 * [social.html](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/navigation-menu-start/social.html)
 
-[Download hier de zip file van de 4 bovenstaande bestanden om te beginnen aan de oefening.](../basis/navigation-menu-start.zip)
+[Download hier de zip file van de 4 bovenstaande bestanden om te beginnen aan de oefening.](../basis/navigation-menu-start_.zip)
 
 Wat je moet doen:
 
