@@ -29,6 +29,8 @@ Voorbeeld van een structuur:
 
 Voorbeelden van andere portfolio's:
 
+Mijn allereerste [Portfolio](https://romantic-curran-80cb49.netlify.app/) (deze voldoet echter niet aan alle eisen)
+
 [https://www.creativebloq.com/portfolios/examples-712368](https://www.creativebloq.com/portfolios/examples-712368)
 
 ## Vereisten
@@ -36,6 +38,7 @@ Voorbeelden van andere portfolio's:
 * vermeld enkele persoonlijke gegevens
 * plaats een email hyperlink (zie les 4) waarop mensen je kunnen contacteren
 * je moet de opdracht zelf hosten (bv op Netlify of surge.sh)
+* Zet ergens een overzicht van je projecten, in een grid. Gebruik hiervoor Flexbox
 
 ## Indienen
 

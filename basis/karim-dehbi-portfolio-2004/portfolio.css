@@ -1,0 +1,113 @@
+body { text-align: center;
+}
+
+h2 { font-family:Courier New;
+		text-align:center;
+}
+
+h3 { font-family:Courier New;
+	
+		
+}
+
+
+
+table { margin:auto auto;
+	width: 800px;	
+}
+
+img {border-width: 0;
+	 margin-left:50px;
+}
+
+div {border-width: 0;
+	
+}
+
+A:link {color:#646468;
+}
+
+A:visited {color:#646468;
+}
+
+A:hover {color:#000000;
+}
+
+A:active {color:#646468;
+}
+
+.hide {
+	visibility: hidden;
+	height: 0px;
+	display: none;
+}
+
+.show {
+	visibility: visible;
+}
+
+		 
+.thintro {border-width:0px;
+		 border-style:none;
+	  	 border-color:#000000;
+}
+
+.thhome {
+		 font-family:Courier New, Arial;
+		 font-weight:100;
+		 font-size:72px;
+		 text-align:center;
+}
+
+.cmnt { 
+		 font-family:Verdana;
+		 font-weight:100;
+		 font-size:8px;
+		 text-align:center;
+			
+}
+
+.b { 
+		  font-weight:bold;
+}
+
+.sitenav {
+		 font-family:Courier New, Arial;
+		 font-weight:100;
+		 font-size:36px;
+		 text-align:center;
+			vertical-align:top;
+}
+
+
+.sitebody {padding-left:20px;
+			padding-right:20px;
+		 font-family: Courier New;
+		 font-weight:100;
+		 font-size:12px;
+		 text-align:left;
+			width:350;
+}
+
+.small
+
+
+#introtb {
+	background-image:url(gfx/eyesonlier.jpg);
+	text-align:center;
+	color:#000000;
+	position:absolute;
+}
+
+#introbg {background-color:#FFFFFF;
+}
+
+#homebg {background-color:#FFFFFF;
+		color:#000000;
+		font-family: Verdana;
+}
+
+#introlinkpic {
+
+}
+

@@ -1,5 +1,9 @@
 # Les 4: Structuur en navigatie in HTML
 
+Voor je begint aan deze les, zorg dat je zeker alle extensies geïnstalleerd hebt die hier beschreven staan:
+
+[Visual Code Extenstions](https://goldflow.github.io/website-productie/visual-code-extensions.html)
+
 ## 4.1 Hyperlinks maken
 
 (dit is een herhaling van 3.4 uit [LES 3](../les_03/README.md))
@@ -318,7 +322,6 @@ Dit zijn enkele voorbeelden van `mailto`-URL’s:
 <video width="600" controls>
 <source src="href-maken-intellisense.mkv">
 </video>
-
 
 #### Hoe submap links te maken
 
