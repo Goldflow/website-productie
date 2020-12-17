@@ -34,10 +34,10 @@ Meer informatie hier:
 
 Deze les geeft een samenvatting van enkele van de CSS-lay-outfuncties die we al hebben behandeld in eerdere modules - zoals verschillende [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display ) waarden - en introduceer enkele van de concepten die we in deze module zullen behandelen.
 
-#### Vereisten
+### Vereisten
 De basisprincipes van HTML (studie [Inleiding tot HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)), en een idee van hoe CSS werkt (studie [Inleiding tot CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS).)
 
-#### Doelstelling
+### Doelstelling
 Om u een overzicht te geven van CSS-pagina lay-out technieken. Elke techniek kan in meer detail worden geleerd in volgende tutorials.
 
 CSS-pagina lay-out technieken stellen ons in staat elementen op een webpagina te nemen en te bepalen waar ze worden gepositioneerd ten opzichte van hun standaardpositie in de normale lay-outstroom, de andere elementen eromheen, hun bovenliggende container of het hoofdvenster / venster. De technieken voor pagina-indeling die we in deze module meer in detail zullen behandelen, zijn
@@ -83,13 +83,13 @@ Merk hier op hoe de HTML wordt weergegeven in de exacte volgorde waarin deze in 
 
 De elementen die onder elkaar verschijnen, worden beschreven als _block_-elementen, in tegenstelling tot _inline_-elementen, die naast elkaar verschijnen, zoals de afzonderlijke woorden in een alinea.
 
-** Opmerking **: de richting waarin de inhoud van de blokelementen wordt opgemaakt, wordt beschreven als de blokrichting. De blokrichting wordt verticaal uitgevoerd in een taal zoals Engels, die een horizontale schrijfmodus heeft. Het zou horizontaal werken in elke taal met een verticale schrijfmodus, zoals Japans. De corresponderende Inline Direction is de richting waarin inline inhoud (zoals een zin) zou lopen.
+**Opmerking**: de richting waarin de inhoud van de blokelementen wordt opgemaakt, wordt beschreven als de blokrichting. De blokrichting wordt verticaal uitgevoerd in een taal zoals Engels, die een horizontale schrijfmodus heeft. Het zou horizontaal werken in elke taal met een verticale schrijfmodus, zoals Japans. De corresponderende Inline Direction is de richting waarin inline inhoud (zoals een zin) zou lopen.
 
 Voor veel van de elementen op uw pagina zal de normale stroom precies de lay-out creëren die u nodig heeft, maar voor complexere lay-outs moet u dit standaardgedrag wijzigen met behulp van enkele van de tools die voor u beschikbaar zijn in CSS. Beginnen met een goed gestructureerd HTML-document is erg belangrijk, omdat je dan kunt werken met de manier waarop dingen standaard zijn ingedeeld in plaats van ertegen te vechten.
 
 De methoden die de indeling van elementen in CSS kunnen veranderen, zijn als volgt:
 
-* ** De eigenschap [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display) ** - Standaardwaarden zoals` block`, `inline` of` inline -block` kan veranderen hoe elementen zich gedragen in normale stroom, bijvoorbeeld door een element op blokniveau te laten gedragen als een inline-element (zie Soorten CSS-boxen voor meer informatie). We hebben ook volledige lay-outmethoden die worden ingeschakeld via specifieke 'weergave'-waarden, bijvoorbeeld [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) en [ Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox), die de indeling van elementen in het element waarop ze zijn ingesteld, wijzigen.
+* **De eigenschap [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display)** - Standaardwaarden zoals` block`, `inline` of` inline -block` kan veranderen hoe elementen zich gedragen in normale stroom, bijvoorbeeld door een element op blokniveau te laten gedragen als een inline-element (zie Soorten CSS-boxen voor meer informatie). We hebben ook volledige lay-outmethoden die worden ingeschakeld via specifieke 'weergave'-waarden, bijvoorbeeld [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) en [ Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox), die de indeling van elementen in het element waarop ze zijn ingesteld, wijzigen.
 * **Floats** - Het toepassen van een [`float`](https://developer.mozilla.org/en-US/docs/Web/CSS/float) waarde zoals` left` kan ervoor zorgen dat blokniveau-elementen omwikkelen naast één kant van een element, zoals de manier waarop afbeeldingen soms tekst om zich heen laten zweven in tijdschriftlay-outs.
 * ** De [`position`](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
@@ -113,8 +113,7 @@ De HTML-opmaak hieronder geeft ons een bevattend element, met een klasse `wrappe
 
 Als we echter `display: flex` aan de ouder toevoegen, rangschikken de drie items zichzelf in kolommen. Dit komt doordat ze _flex items_ worden en worden beïnvloed door enkele initiële waarden die flexbox instelt op de flexcontainer. Ze worden in een rij weergegeven, omdat de initiële waarde van [`flex-direction`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) ingesteld op hun ouder is` rij`. Ze lijken allemaal uit te rekken tot de hoogte van het hoogste item, omdat de initiële waarde van de [`align-items`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items ) eigenschap ingesteld op hun ouder is `stretch`. Dit betekent dat de items uitrekken tot de hoogte van de flexcontainer, die in dit geval wordt bepaald door het hoogste item. De items staan ​​allemaal aan het begin van de container, zodat er aan het einde van de rij extra ruimte overblijft.
 
-###### Flexbox Voorbeeld 1
-
+### Flexbox Voorbeeld 1
 
 ```CSS
 * {box-sizing: border-box;}
@@ -171,6 +170,12 @@ Meer hier over [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_
 Maak deze oefening om over Flexbox te leren:
 [Flexbox Froggy](https://flexboxfroggy.com/#nl)
 
+#### Oefening Flexbox.IO
+
+Op de volgende website, kan je je gratis registreren voor een video cursus om Flexbox te leren. Ga naar de site en registreer je met een mail om de cursus te beginnen:
+
+[https://flexbox.io/](https://flexbox.io/)
+
 ## [Grid Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction#Grid_Layout "Permalink to Grid Layout")
 
 Terwijl flexbox is ontworpen voor een eendimensionale lay-out, is rasterlay-out ontworpen voor twee dimensies: dingen uitlijnen in rijen en kolommen.
@@ -203,7 +208,7 @@ Nogmaals, u kunt Grid Layout inschakelen met een specifieke waarde van display -
 
 Als u eenmaal een raster heeft, kunt u uw items er expliciet op plaatsen, in plaats van te vertrouwen op het gedrag van automatische plaatsing dat hierboven wordt weergegeven. In het tweede voorbeeld hieronder hebben we hetzelfde raster gedefinieerd, maar deze keer met drie onderliggende items. We hebben de begin- en eindregel van elk item ingesteld met behulp van de eigenschappen rasterkolom en rasterrij. Dit zorgt ervoor dat de items meerdere sporen beslaan.
 
-```
+```CSS
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -227,7 +232,7 @@ Als u eenmaal een raster heeft, kunt u uw items er expliciet op plaatsen, in pla
 }
 ```
 
-```
+```HTML
 <div class="wrapper">
     <div class="box1">One</div>
     <div class="box2">Two</div>
@@ -240,3 +245,4 @@ Opmerking: deze twee voorbeelden zijn slechts een klein deel van de kracht van G
 De rest van deze handleiding behandelt andere lay-outmethoden, die minder belangrijk zijn voor de belangrijkste lay-outstructuren van uw pagina, maar die u toch kunnen helpen bij het uitvoeren van specifieke taken. Als u de aard van elke lay-outtaak begrijpt, zult u snel merken dat wanneer u naar een bepaald onderdeel van uw ontwerp kijkt, het type lay-out dat er het meest geschikt voor is, vaak duidelijk zal zijn.
 
 ---
+

@@ -6,12 +6,12 @@ Voor deze oefening gaan we onze eigen portfolio maken. Het idee is dat dit kan d
 
 ## Uitleg opdracht
 
-#### Structuur project
+### Structuur project
 
 Je kan zelf kiezen hoe je portfolio website onderverdeelt maar ik verwacht op zijn minst 3 verschillende pagina's waarin je telkens kan navigeren naar de andere pagina's.
 Ook belangrijk dat hoofdpagina de naam `index.html` heeft.
 
-#### Voorbeelden structuur
+### Voorbeelden structuur
 
 Voor de duidelijkheid, je mag je eigen structuur en inhoud kiezen maar er moeten gewoon op zijn minst 3 pagina's zijn.
 
@@ -39,5 +39,5 @@ Voorbeelden van andere portfolio's:
 
 ## Indienen
 
-- Deze keer als je het niet indienen maar ga je je website zelf hosten zoals we gezien hebben in les 5.
-- Ik verwacht de 4 bestanden aangepast & in correcte HTML
+* Deze keer als je het niet indienen maar ga je je website zelf hosten zoals we gezien hebben in les 5.
+* Ik verwacht de 4 bestanden aangepast & in correcte HTML

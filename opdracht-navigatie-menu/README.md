@@ -7,7 +7,7 @@ Voor deze oefening willen we dat je een paar pagina’s naar elkaar laat verwijz
 In deze video geef ik nog eens hoe de eindoplossing eruit moet zien:
 
 <video width="600" controls>
-<source src="uitleg-navigatie-menu.mkv">
+<source src="eindresultaat-navigatie-menu.mkv">
 </video>
 
 ## Uitleg opdracht
