@@ -80,7 +80,7 @@ URL’s gebruiken paden om bestanden te vinden. Paden tonen ons waar een bestand
 
 ![Een eenvoudige mapstructuur. De bovenliggende map heet creating-hyperlinks en bevat twee bestanden met de naam index.html en contacts.html, en twee mappen met de naam projects en pdfs, die respectievelijk een bestand index.html en een bestand project-brief.pdf bevatten](https://mdn.mozillademos.org/files/12409/simple-directory.png)
 
-Je kan het project [hier downloaden](creating-hyperlinks.zip)
+Je kan het project [hier downloaden](creating-hyperlinks_fixed.zip)
 
 In onderstaande video leg ik uit hoe je het project kan extracten / openen op je computer:
 

@@ -16,6 +16,8 @@ In deze video geef ik nog eens hoe de eindoplossing eruit moet zien:
 
 [Download hier de zip file](../basis/navigation-menu-start_.zip) van de 4 bovenstaande bestanden om te beginnen aan de oefening.
 
+In LES 4 in [dit hoofdstuk](https://goldflow.github.io/website-productie/les_04/#42-een-snelle-uitleg-over-urls-en-paden), vind je alle informatie die je nodig hebt om de opdracht te vervolledigen.
+
 #### Structuur project
 
 In de bovenstaande zip file zal je onderstaande vier pagina’s terugvinden, alle vier in dezelfde map (zie ook de map [navigation-menu-start](https://github.com/mdn/learning-area/tree/master/html/introduction-to-html/navigation-menu-start) voor een volledige lijst):
