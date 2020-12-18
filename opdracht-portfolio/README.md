@@ -38,7 +38,9 @@ Mijn allereerste [Portfolio](https://romantic-curran-80cb49.netlify.app/) (deze 
 * vermeld enkele persoonlijke gegevens
 * plaats een email hyperlink (zie les 4) waarop mensen je kunnen contacteren
 * je moet de opdracht zelf hosten (bv op Netlify of surge.sh)
-* Zet ergens een overzicht van je projecten, in een grid. Gebruik hiervoor Flexbox
+* Zet ergens een overzicht van je projecten, je kan hier gerust de Photoshop projecten voor gebruiken. Toon er op zijn minst 4
+* Als je projecten toont, toon de afbeelding, niet de PSD want dit is niet zichtbaar op het web.
+* Maak ergens gebruik van Flexbox (bv bij overzicht projecten)
 
 ## Indienen
 

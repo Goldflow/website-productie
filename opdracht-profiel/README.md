@@ -42,6 +42,10 @@ Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbe
 <source src="profiel-foto-toevoegen.mkv">
 </video>
 
+### Voorbeeld
+
+[Voorbeeld hier](https://goldflow.github.io/website-productie/basis/karim-dehbi-portfolio-2004/) (dit voorbeeld voldoet echter niet aan de vereisten die gevraagd zijn hier onder);
+
 ### Hoe zelf stijlen opzoeken
 
 Deze video leg ik uit hoe je zelf stijlen kan opzoeken. Leer Googelen!!!
