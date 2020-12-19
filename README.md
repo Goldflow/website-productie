@@ -24,9 +24,9 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [OPDRACHT: Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) tegen 12/12/2020
 
-[OPDRACHT: Profiel](https://goldflow.github.io/website-productie/opdracht-profiel/) tegen 19/12/2020, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
+[OPDRACHT: Profiel](https://goldflow.github.io/website-productie/opdracht-profiel/) tegen 04/01/2021, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
 
-[OPDRACHT: Navigatie Menu](https://goldflow.github.io/website-productie/opdracht-navigatie-menu/) tegen 19/12/2020, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
+[OPDRACHT: Navigatie Menu](https://goldflow.github.io/website-productie/opdracht-navigatie-menu/) tegen 04/01/2021, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
 
 [OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 04/01/2021, online hosten (zie les 5, bv op Netlify of Surge)
 
