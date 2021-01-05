@@ -43,6 +43,7 @@ Mijn allereerste [Portfolio](https://romantic-curran-80cb49.netlify.app/) (deze 
 * Maak ergens gebruik van Flexbox (bv bij overzicht projecten)
 
 EXTRA punten als je principes gebruikt uit interface design
+
 EXTRA punten voor mooi design / zelfgemaakte afbeeldingen te gebruiken in Photoshop / Illustrator voorbereid
 
 ## Indienen
