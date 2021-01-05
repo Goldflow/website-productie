@@ -42,6 +42,9 @@ Mijn allereerste [Portfolio](https://romantic-curran-80cb49.netlify.app/) (deze 
 * Als je projecten toont, toon de afbeelding, niet de PSD want dit is niet zichtbaar op het web.
 * Maak ergens gebruik van Flexbox (bv bij overzicht projecten)
 
+EXTRA punten als je principes gebruikt uit interface design
+EXTRA punten voor mooi design / zelfgemaakte afbeeldingen te gebruiken in Photoshop / Illustrator voorbereid
+
 ## Indienen
 
 * Deze keer als je het niet indienen maar ga je je website zelf hosten zoals we gezien hebben in les 5.
