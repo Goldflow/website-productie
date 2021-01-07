@@ -30,6 +30,10 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 04/01/2021, online hosten (zie les 5, bv op Netlify of Surge)
 
+## Praktisch Advies
+
+[Kan je hier vinden](./praktisch-advies)
+
 ## Overzicht Tooling
 
 ### Visual Studio Code
