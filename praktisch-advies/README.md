@@ -64,4 +64,24 @@ Het is ook mogelijk om bijvoorbeeld te linken naar verschillende plaatsen in het
 
 ### Standaard HTML template genereren
 
-    
+In plaats van telkens handmatig je basis HTML structuur te typen kan je in Visual Studio code ook gebruiken van volgende snelkoppeling om een snippet (klein stukje code) te genereren.
+
+Dat doe je op volgende manier
+
+* druk op !
+* dan op TAB
+
+Dan zou je de standaard structuur moeten zien verschijnen;
+
+<video width="600" controls>
+<source src="basis-structuur.mkv">
+</video>
+
+### Hoe het project indienen als zip bestand
+
+Voor sommige opdrachten is het belangrijk dat je al je bestanden kan indienen als 1 bestand. Dit doe je het best door die archiveren naar 1 bestand. Dit noemen we ook wel "zippen". In onderstaande video zie je hoe je dit doet.
+
+<video width="600" controls>
+<source src="how-to-zip-project.mkv">
+</video>
+

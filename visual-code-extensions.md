@@ -17,6 +17,8 @@ Kijk bij HTML Preview om te zien hoe dat moet.
 
 Met deze extensie kunnen we binnen Visual Studio onmiddelijk de aanpassingen zien die we uitvoeren in Visual Studio Code.
 
+[Hier kan je meer info vinden hoe dit te gebruiken](https://goldflow.github.io/website-productie/les_01/#gebruik-van-html-preview)
+
 ![install-html-preview-extension.gif](install-html-preview-extension.gif)
 
 ### Visual Studio Icons
