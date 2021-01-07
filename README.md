@@ -20,15 +20,15 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 **!! Belangrijk - Als iets niet duidelijk is, of je wil extra uitleg, laat mij dit ook zo snel mogelijk weten.**
 
-[OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 12/12/2020
+[OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 08/01/2021 om 12h00
 
-[OPDRACHT: Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) tegen 12/12/2020
+[OPDRACHT: Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) tegen 08/01/2021 om 12h00
 
-[OPDRACHT: Profiel](https://goldflow.github.io/website-productie/opdracht-profiel/) tegen 03/01/2021, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
+[OPDRACHT: Profiel](https://goldflow.github.io/website-productie/opdracht-profiel/) tegen 08/01/2021 om 12h00, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
 
-[OPDRACHT: Navigatie Menu](https://goldflow.github.io/website-productie/opdracht-navigatie-menu/) tegen 03/01/2021, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
+[OPDRACHT: Navigatie Menu](https://goldflow.github.io/website-productie/opdracht-navigatie-menu/) tegen 08/01/2021 om 12h00, indienen als zip bestand OF online hosten (zie les 5 - geef me dan de link)
 
-[OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 04/01/2021, online hosten (zie les 5, bv op Netlify of Surge)
+[OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 08/01/2021 om 12h00, online hosten (zie les 5, bv op Netlify of Surge)
 
 ## Praktisch Advies
 
