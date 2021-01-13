@@ -34,7 +34,7 @@ Mijn allereerste [Portfolio](https://romantic-curran-80cb49.netlify.app/) (deze 
 [https://www.creativebloq.com/portfolios/examples-712368](https://www.creativebloq.com/portfolios/examples-712368)
 
 ## Vereisten
-
+* HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren)
 * vermeld enkele persoonlijke gegevens
 * plaats een email hyperlink (zie les 4) waarop mensen je kunnen contacteren
 * je moet de opdracht zelf hosten (bv op Netlify of surge.sh)
@@ -49,4 +49,4 @@ EXTRA punten voor mooi design / zelfgemaakte afbeeldingen te gebruiken in Photos
 ## Indienen
 
 * Deze keer als je het niet indienen maar ga je je website zelf hosten zoals we gezien hebben in les 5.
-* Ik verwacht de 4 bestanden aangepast & in correcte HTML
+* Ik verwacht de 4 bestanden aangepast & in correcte HTML > [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren)
