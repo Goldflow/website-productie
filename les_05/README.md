@@ -110,6 +110,24 @@ Naast de mogelijkheid om de standaardpresentatie te veranderen door een item van
 ( [In deze oefening vind je een goed gebruik van FLEXBOX die je kan gebruiken in je eigen opdrachten :)](https://codepen.io/GoldFlow/pen/VwKpyKY))
 
 
+
+### Flexbox Basis
+
+Vereenvoudige uitleg om Flexbox toe te passen
+
+#### Een element centreren met Flexbox
+
+[vind je hier hoe](https://goldflow.github.io/website-productie/praktisch-advies/#centreren-met-flexbox)
+
+### Navigatie menu layout maken met flexbox
+
+Hier leg ik uit hoe van een lijst een horizontale navigatie lijst kan maken door flexbox te gebruiken en het style attribuut justify-content.
+
+<video width="600" controls>
+<source src="flex-box-menu-space-around.mkv">
+</video>
+
+
 Flexbox is de korte naam voor de module [Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) Module, ontworpen om het ons gemakkelijk te maken om dingen in één dimensie - als rij of als kolom. Om flexbox te gebruiken, past u `display: flex` toe op het bovenliggende element van de elementen die u wilt opmaken; al zijn directe kinderen worden dan flexitems. We kunnen dit zien in een eenvoudig voorbeeld.
 
 De HTML-opmaak hieronder geeft ons een bevattend element, met een klasse `wrapper`, waarin drie `<div>` elementen. Standaard worden deze weergegeven als blokelementen, onder elkaar, in ons Engelstalige document.

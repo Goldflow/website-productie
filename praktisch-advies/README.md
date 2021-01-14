@@ -20,17 +20,22 @@ Hier leg ik uit hoe je een pagina of een blok kan centreren met behulp van Flexb
 <source src="hoe-div-centreren.mkv">
 </video>
 
-### Profiel foto uit facebook toevoegen
+### Lists stylen
 
-Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbeeld facebook.
+Hier leg ik uit hoe de bolletjes van een unordened list (`<ul>`-element) kan weghalen. En hoe je een onderlijning kan zetten op een list item (`<li>`-element)
 
 <video width="600" controls>
-<source src="profiel-foto-toevoegen.mkv">
+<source src="underline-ul-remove-dot.mkv">
 </video>
 
-#### Voorbeeld
+### Navigatie menu layout maken met flexbox
 
-[Voorbeeld hier](https://goldflow.github.io/website-productie/basis/karim-dehbi-portfolio-2004/) (dit voorbeeld voldoet echter niet aan de vereisten die gevraagd zijn hier onder);
+Hier leg ik uit hoe van een lijst een horizontale navigatie lijst kan maken door flexbox te gebruiken en het style attribuut justify-content.
+
+<video width="600" controls>
+<source src="flex-box-menu-space-around.mkv">
+</video>
+
 
 ### Hoe zelf stijlen opzoeken
 
@@ -54,6 +59,14 @@ Deze video leg ik uit hoe je een lokale afbeelding kan tonen.
 
 <video width="600" controls>
 <source src="afbeelding-maken.mkv">
+</video>
+
+### Profiel foto uit facebook toevoegen
+
+Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbeeld facebook.
+
+<video width="600" controls>
+<source src="profiel-foto-toevoegen.mkv">
 </video>
 
 ### Bestands extensies tonen
