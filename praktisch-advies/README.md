@@ -12,6 +12,14 @@ Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om m
 
 je kan gebruik maken van deze [VS Code extensie ](https://goldflow.github.io/website-productie/visual-code-extensions.html#vscode-htmlhint) om binnen Visual Code hulp te krijgen over mogelijke fouten.
 
+### Centreren met Flexbox
+
+Hier leg ik uit hoe je een pagina of een blok kan centreren met behulp van Flexbox
+
+<video width="600" controls>
+<source src="hoe-div-centreren.mkv">
+</video>
+
 ### Profiel foto uit facebook toevoegen
 
 Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbeeld facebook.
