@@ -2,6 +2,16 @@
 
 Ik ga jullie hier een overzicht geven van verschillende praktische tips die jullie kunnen gebruiken bij het uitwerken van jullie opdrachten.
 
+### HTML Valideren
+
+Op deze pagina kan je een website ingeven om het te laten controleren en te zien of de HTML valid is. Dit is een goeie manier om te zorgen dat je webpagina / HTML volledig in orde is.
+
+Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om mij te contacteren.
+
+[https://validator.w3.org/](https://validator.w3.org/)
+
+je kan gebruik maken van deze [VS Code extensie ](https://goldflow.github.io/website-productie/visual-code-extensions.html#vscode-htmlhint) om binnen Visual Code hulp te krijgen over mogelijke fouten.
+
 ### Profiel foto uit facebook toevoegen
 
 Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbeeld facebook.

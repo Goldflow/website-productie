@@ -30,22 +30,7 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 [OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 08/01/2021 om 12h00, online hosten (zie les 5, bv op Netlify of Surge)
 
-[OPDRACHT: QUIZ HTML] tegen vrijdag 15/01/2020 om 12h00
-
-[Hier vind je de link van de opdracht](https://www.w3schools.com/html/html_quiz.asp)
-
-Maak een screenshot en dien die in. Ik verwacht dat je op zijn minst 80% haalt.
-
-Lees de lessen voor herhaling, doe gerust de test opnieuw
-
-[OPDRACHT: QUIZ CSS] tegen vrijdag 15/01/2020 om 12h00
-
-[Hier vind je de link van de opdracht](https://www.w3schools.com/css/css_quiz.asp)
-
-Maak een screenshot en dien die in. Ik verwacht dat je op zijn minst 80% haalt.
-
-Lees de lessen voor herhaling, doe gerust de test opnieuw
-
+[OPDRACHT: Herhalingsquizzes](https://goldflow.github.io/website-productie/opdracht-quizzes/) tegen 15/01/2021 om 12h00, screenshots indienen)
 
 ## Praktisch Advies
 

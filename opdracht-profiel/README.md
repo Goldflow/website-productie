@@ -25,6 +25,7 @@ Maak een profiel aan met volgende vereisten:
 * voeg nog 2 categoriën toe je die je leuk vindt
 
 ### Vereisten:
+* HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren)
 * Maak gebruik van 1 geordende lijst (`<ol>`) waar je op zijn minst 3 zaken oplijst in volgorde van waarde / voorkeur, in een categorie naar keuze
 * Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst
 * Gebruik op zijn minst 2 andere kleuren dan zwart

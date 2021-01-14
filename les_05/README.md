@@ -107,6 +107,9 @@ Naast de mogelijkheid om de standaardpresentatie te veranderen door een item van
 
 ## [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction#Flexbox "Permalink to Flexbox")
 
+( [In deze oefening vind je een goed gebruik van FLEXBOX die je kan gebruiken in je eigen opdrachten :)](https://codepen.io/GoldFlow/pen/VwKpyKY))
+
+
 Flexbox is de korte naam voor de module [Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) Module, ontworpen om het ons gemakkelijk te maken om dingen in één dimensie - als rij of als kolom. Om flexbox te gebruiken, past u `display: flex` toe op het bovenliggende element van de elementen die u wilt opmaken; al zijn directe kinderen worden dan flexitems. We kunnen dit zien in een eenvoudig voorbeeld.
 
 De HTML-opmaak hieronder geeft ons een bevattend element, met een klasse `wrapper`, waarin drie `<div>` elementen. Standaard worden deze weergegeven als blokelementen, onder elkaar, in ons Engelstalige document.
@@ -139,7 +142,7 @@ Als we echter `display: flex` aan de ouder toevoegen, rangschikken de drie items
 </div>
 ```
 
-[probeer het hier uit](https://codepen.io/GoldFlow/pen/VwKpyKY)
+[In deze oefening vind je een goed gebruik van FLEXBOX die je kan gebruiken in je eigen opdrachten :)](https://codepen.io/GoldFlow/pen/VwKpyKY)
 
 Naast bovenstaande eigenschappen die op de flexcontainer kunnen worden toegepast, zijn er eigenschappen die op de flex items kunnen worden toegepast. Deze eigenschappen kunnen onder andere de manier waarop de items buigen veranderen, waardoor ze kunnen uitzetten en inkrimpen om in de beschikbare ruimte te passen.
 
