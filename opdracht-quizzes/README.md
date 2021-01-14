@@ -12,7 +12,8 @@ Voer de quiz hieronder uit; je mag die zoveel opnieuw uitvoeren als je wil
 
 Vereisten:
 - Upload een screenshot van je resultaat in de desbetreffende upload map
-- Behaal op zijn minst 75%
+- Behaal op zijn minst 80%
+- Hoe sneller de tijd hoe beter :)
 
 ## 3. CSS Quiz
 
@@ -23,7 +24,8 @@ Voer de quiz hieronder uit; je mag die zoveel opnieuw uitvoeren als je wil
 
 Vereisten:
 - Upload een screenshot van je resultaat in de desbetreffende upload map
-- Behaal op zijn minst 65%
+- Behaal op zijn minst 80%
+- Hoe sneller de tijd hoe beter :)
 
 ## Extra Quizzes
 
