@@ -4,6 +4,9 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 ## Overzicht Lessen
 
+[Github & Netlify](./github-netlify)
+
+<!---
 [Les 1 - Introductie HTML & CSS](./les_01)
 
 [Les 2 - CSS & Selectors](./les_02)
@@ -13,6 +16,7 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 [Les 4 - Structuur en navigatie in HTML](./les_04)
 
 [Les 5 - Zelf website hosten + CSS Layout](./les_05)
+-->
 
 ## Overzicht Opdrachten
 
@@ -20,6 +24,9 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 
 **!! Belangrijk - Als iets niet duidelijk is, of je wil extra uitleg, laat mij dit ook zo snel mogelijk weten.**
 
+Github account maken & site op Netlify zetten - tegen 16/11/2021
+
+<!---
 [OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 08/01/2021 om 12h00
 
 [OPDRACHT: Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) tegen 08/01/2021 om 12h00
@@ -31,6 +38,7 @@ Dit is het overzicht van de cursus Website Productie 2020-2021 voor CVO - COOVI.
 [OPDRACHT: Portfolio](https://goldflow.github.io/website-productie/opdracht-portfolio/) tegen 08/01/2021 om 12h00, online hosten (zie les 5, bv op Netlify of Surge)
 
 [OPDRACHT: Herhalingsquizzes](https://goldflow.github.io/website-productie/opdracht-quizzes/) tegen 15/01/2021 om 12h00, screenshots indienen)
+-->
 
 ## Praktisch Advies
 
@@ -51,3 +59,4 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 
 - [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
 - [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
+- [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)
