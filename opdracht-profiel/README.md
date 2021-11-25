@@ -10,28 +10,51 @@ Video met meer uitleg over de opdracht.
 <source src="profiel-opdracht.mkv">
 </video>
 
+## Vooraleer je aan deze opdracht begint
+
+- VS Code is geïnstalleerd
+- Je hebt de lessen bekeken tem les 4 ivm HTML & basis CSS
+
+
 Maak een profiel aan met volgende vereisten:
 
 ### Inhoud:
 * Profiel foto van jezelf
 * Naam & Voornaam
 * Geboortedatum
-* Huidige job: dit mag fictief zijn
-* Vorige jobs: dit mag ook fictief zijn
 * Hobbies
 * Een video die je leuk vind (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
 * Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
-* Enkele favoriete websites
+* Enkele favoriete websites (gebruik `<a>`-element)
 * voeg nog 2 categoriën toe je die je leuk vindt
+- Wat je favoriete eten is
+- Het mag grappig zijn maar gelieve politiek correct te blijven - geen racisme, sexisme of lachen met minderheidsgroepen of religies
+- Profiel foto van jezelf / of iemand of iets dat jou kan representeren
+- op zijn minst 1 video die je leuk vind en graag wil delen met de klas (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
+- op zijn minst 1 stukje muziek dat je leuk vind of bij jou past, die je graag wil delen met de klas (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
+- Op zijn minst 1 Quote / Wijze raad van iemand / over iets dat je inspireert
+
+> 'Don't believe everything you think. Thoughts are just that - thoughts.' bv.
+
+- Op zijn minst 1 grap (niet langer dan 2 zinnen) bv.:
+
+> Later wil ik vier dochters, dan noem ik ze allemaal Joyce.
+>
+> Als iemand dan vraagt hoe mijn kinderen heten kan ik zeggen dat het een multiple joyce-vraag is.
+
+of
+
+> ‘Acné heb je, ja kun je krijgen’
+
 
 ### Vereisten:
-* HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren)
-* Maak gebruik van 1 geordende lijst (`<ol>`) waar je op zijn minst 3 zaken oplijst in volgorde van waarde / voorkeur, in een categorie naar keuze
-* Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst
+* HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren) - je kan dit ook gewoon doen met W3C Web Validator in VS code
+* Maak gebruik van 1 geordende lijst (`<ol>`) waar je op zijn minst 3 zaken oplijst in volgorde van waarde / voorkeur, in een categorie naar keuze (bv dit kan favoriete artiesten zijn gerankt)
+* Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst (eigenschappen van jezelf)
+* Maak gebruik van 1 ongeordende lijst (`<table>`) waar je op zijn minst 3 zaken oplijst (eigenschappen van jezelf)
 * Gebruik op zijn minst 2 andere kleuren dan zwart
-* Dien je project in als een .zip bestand, zie in de volgende sectie hoe dit te doen.
 * Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
-* Naam van je `.html` bestand mag geen spaties of speciale tekens bevatten! _ en - zijn echter wel toegelaten, dus bv: `profiel_Karim-Dehbi.html`
+* Naam van je `.html` bestand noem je gewoon `index.html` en plaats je binnen de map "profiel" op je repository
 
 ## Tips en uitleg om opdracht uit te voeren
 
@@ -45,7 +68,7 @@ Onderstaande video leg ik uit hoe je je profiel foto kan toevoegen van bijvoorbe
 
 ### Voorbeeld
 
-[Voorbeeld hier](https://goldflow.github.io/website-productie/basis/karim-dehbi-portfolio-2004/) (dit voorbeeld voldoet echter niet aan de vereisten die gevraagd zijn hier onder);
+[Voorbeeld hier](https://goldflow.github.io/website-productie/voorbeeld-profiel)
 
 ### Hoe zelf stijlen opzoeken
 
@@ -65,6 +88,9 @@ Deze video leg ik uit hoe video & audio elementen kan gebruiken in je profiel.
 
 
 ### Hoe het project in te dienen
+
+* het is ook belangrijk dat je die in je profiel folder op je eigen repository plaatst, bij het indienen van de .zip meld je de link naar je repository
+* Dien je project in als een .zip bestand, zie in de volgende sectie hoe dit te doen.
 
 Een van de vereisten is dat jullie het indienen als een zip bestand. Ik leg jullie uit hier hoe.
 
