@@ -48,6 +48,7 @@ of
 
 
 ### Vereisten:
+* Gebruik Externe CSS bestand (zoals we in de oefening CSS basis hebben gedaan) - zie [dit stuk in de les hoe](https://rogiervdl.github.io/CSS-course/01_syntax.html#/extern-gelinkte-stijlen)
 * HTML moet correct zijn en valid; [in de sectie Praktisch Advies leg ik uit hoe je dit kan doen](https://goldflow.github.io/website-productie/praktisch-advies/#HTML-Valideren) - je kan dit ook gewoon doen met W3C Web Validator in VS code
 * Maak gebruik van 1 geordende lijst (`<ol>`) waar je op zijn minst 3 zaken oplijst in volgorde van waarde / voorkeur, in een categorie naar keuze (bv dit kan favoriete artiesten zijn gerankt)
 * Maak gebruik van 1 ongeordende lijst (`<ul>`) waar je op zijn minst 3 zaken oplijst (eigenschappen van jezelf)
