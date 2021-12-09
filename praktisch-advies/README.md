@@ -2,15 +2,40 @@
 
 Ik ga jullie hier een overzicht geven van verschillende praktische tips die jullie kunnen gebruiken bij het uitwerken van jullie opdrachten.
 
-### HTML Valideren
+#### HTML Valideren
 
 Op deze pagina kan je een website ingeven om het te laten controleren en te zien of de HTML valid is. Dit is een goeie manier om te zorgen dat je webpagina / HTML volledig in orde is.
 
-Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om mij te contacteren.
+#### Valideren per URL
+
+Hier kan je de website ingeven en controleren op fouten:
 
 [https://validator.w3.org/](https://validator.w3.org/)
 
-je kan gebruik maken van deze [VS Code extensie ](https://goldflow.github.io/website-productie/visual-code-extensions.html#vscode-htmlhint) om binnen Visual Code hulp te krijgen over mogelijke fouten.
+<video width="600" controls>
+<source src="html-valideren-met-url.mkv">
+</video>
+
+#### Valideren per HTML bestand
+
+Hier kan je de html file uploaden en controleren op fouten:
+
+[https://validator.w3.org/#validate_by_upload](https://validator.w3.org/#validate_by_upload)
+
+#### Valideren met HTML tekst
+
+Hier kan je de html code / tekst plakken en controleren op fouten:
+
+[https://validator.w3.org/#validate_by_input](https://validator.w3.org/#validate_by_input)
+
+<video width="600" controls>
+<source src="html-tekst-valideren.mkv">
+</video>
+---
+
+Als je bij bepaalde fouten niet goed begrijpt wat je moet doen, aarzel niet om mij te contacteren.
+
+je kan gebruik maken van deze [VS Code extensie](https://goldflow.github.io/website-productie/visual-code-extensions.html#vscode-htmlhint) om binnen Visual Code hulp te krijgen over mogelijke fouten.
 
 ### Centreren met Flexbox
 
@@ -18,6 +43,22 @@ Hier leg ik uit hoe je een pagina of een blok kan centreren met behulp van Flexb
 
 <video width="600" controls>
 <source src="hoe-div-centreren.mkv">
+</video>
+
+### Verschillende elementen centreren / structureren met Flexbox
+
+Hier leg ik uit hoe je verschillende elementen kan mooi rangschikken / in layout zetten
+
+<video width="600" controls>
+<source src="verschillende-elementen-centreren.mkv">
+</video>
+
+### GitHub Desktop - Fetch, Pull, Push
+
+Hier leg ik uit hoe je met GitHub desktop je project kan binnen halen en uploaden
+
+<video width="600" controls>
+<source src="repository-binnenhalen-github-desktop.mkv">
 </video>
 
 ### Lists stylen
@@ -115,4 +156,3 @@ Voor sommige opdrachten is het belangrijk dat je al je bestanden kan indienen al
 <video width="600" controls>
 <source src="how-to-zip-project.mkv">
 </video>
-

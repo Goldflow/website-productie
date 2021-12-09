@@ -19,17 +19,15 @@ Video met meer uitleg over de opdracht.
 Maak een profiel aan met volgende vereisten:
 
 ### Inhoud:
-* Profiel foto van jezelf
+* Profiel foto van jezelf / of iemand of iets dat jou kan representeren
 * Naam & Voornaam
-* Geboortedatum
 * Hobbies
-* Een video die je leuk vind (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
+* Een video die je leuk vind (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element (zorg minder dan 50 mb); alternatief youtube embedded video (controleer dat die werkt)
 * Een stukje muziek dat je leuk vind of bij jou past (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
 * Enkele favoriete websites (gebruik `<a>`-element)
 * voeg nog 2 categoriën toe je die je leuk vindt
 - Wat je favoriete eten is
 - Het mag grappig zijn maar gelieve politiek correct te blijven - geen racisme, sexisme of lachen met minderheidsgroepen of religies
-- Profiel foto van jezelf / of iemand of iets dat jou kan representeren
 - op zijn minst 1 video die je leuk vind en graag wil delen met de klas (die kan bekeken worden op je profiel) -> hiervoor gebruik je het `<video>`-element
 - op zijn minst 1 stukje muziek dat je leuk vind of bij jou past, die je graag wil delen met de klas (dat kan beluisterd worden op je profiel) -> hiervoor gebruik je het `<audio>`-element
 - Op zijn minst 1 Quote / Wijze raad van iemand / over iets dat je inspireert
@@ -56,6 +54,10 @@ of
 * Gebruik op zijn minst 2 andere kleuren dan zwart
 * Zorg dat alle gebruikte afbeeldingen, video & audio bestanden ook in je opdracht zitten wanneer je die indient.
 * Naam van je `.html` bestand noem je gewoon `index.html` en plaats je binnen de map "profiel" op je repository
+* Maak gebruik van border styling waar dit passend is
+* Maak ook gebruik van padding en/of margin om witruimte te crëeren; met andere woorden wil ik geen tekst zien plakken tegen de rand van de browser
+* Maak gebruik van  `<h1>`, `<h2>`, `<h3>` elementen om duidelijk je profiel onder te verdelen in verschillende secties
+* Gebruik `<details>` & `<summary>` element op een passende manier
 
 ## Tips en uitleg om opdracht uit te voeren
 
