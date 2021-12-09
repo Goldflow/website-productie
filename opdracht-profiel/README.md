@@ -58,6 +58,9 @@ of
 * Maak ook gebruik van padding en/of margin om witruimte te crëeren; met andere woorden wil ik geen tekst zien plakken tegen de rand van de browser
 * Maak gebruik van  `<h1>`, `<h2>`, `<h3>` elementen om duidelijk je profiel onder te verdelen in verschillende secties
 * Gebruik `<details>` & `<summary>` element op een passende manier
+* Gebruik op zijn minst 3 verschillende kleuren op een consistente manier naast zwart en wit
+* Zwarte tekst op witte achtergrond mag niet
+* Gebruik een alternatieve font type die niet Times New Roman is of Courier New
 
 ## Tips en uitleg om opdracht uit te voeren
 
