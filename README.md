@@ -2,14 +2,13 @@
 >FSD Syntra AB - 2023
 
 ## Overzicht Lessen
-<!---
+
 [Github & Netlify](./github-netlify)
 [Introductie HTML & CSS](./les_01)
 [CSS & Selectors](./les_02)
 [Grondbeginselen van HTML-tekst](./les_03)
 [Structuur en navigatie in HTML](./les_04)
 [Zelf website hosten + CSS Layout](./les_05)
--->
 
 | Datum       | Les inhoud     |
 |----------------|-----------|
