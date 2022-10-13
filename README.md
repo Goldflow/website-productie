@@ -17,9 +17,9 @@
 
 | Datum       | Les inhoud     |
 |----------------|-----------|
-| 29/09/2022     | - |
-| 06/10/2022     | - |
-| 13/10/2022     | - |
+| 29/09/2022     | Basis HTML / CSS |
+| 06/10/2022     | CSS Dinner / Flexbox |
+| 13/10/2022     | Herhaling Basis HTML / CSS |
 | 20/10/2022     | TBD  |
 
 ## Overzicht oefeningen
@@ -37,7 +37,7 @@
 | Deadline       | Price     |
 |----------------|-----------|
 | 13/10/2022     |[Zelf Studie - Intro HTML and CSS - Lesson 1](./voorbereiding-udacity-1)   |
-| 20/10/2022     | TBD  |
+| 20/10/2022     | Voorbereiding Design  |
 
 <!---
 [OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 08/01/2021 om 12h00
@@ -150,3 +150,13 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 * [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
 * [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
 * [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)
+
+### Flexbox
+
+- Flexbox Froggy
+- [https://flexbox.io/](https://cssgrid.io/) door Web Bos
+
+### Grid
+
+- CSS Grid Garden
+- [https://cssgrid.io/](https://cssgrid.io/) door Web Bos
