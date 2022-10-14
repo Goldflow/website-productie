@@ -17,9 +17,9 @@
 
 | Datum       | Les inhoud     |
 |----------------|-----------|
-| 29/09/2022     | Basis HTML / CSS |
-| 06/10/2022     | CSS Dinner / Flexbox  |
-| 13/10/2022     | Herhaling Basis HTML / CSS |
+| 29/09/2022     | Basis HTML / CSS selectors / semantic / absolute/relative / VS Code / surge |
+| 06/10/2022     | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css |
+| 13/10/2022     | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design |
 | 20/10/2022     | TBD  |
 
 ### 29/09/2022
