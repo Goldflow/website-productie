@@ -18,9 +18,79 @@
 | Datum       | Les inhoud     |
 |----------------|-----------|
 | 29/09/2022     | Basis HTML / CSS |
-| 06/10/2022     | CSS Dinner / Flexbox |
+| 06/10/2022     | CSS Dinner / Flexbox  |
 | 13/10/2022     | Herhaling Basis HTML / CSS |
 | 20/10/2022     | TBD  |
+
+### 29/09/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+  
+- basis HTML
+- anatomie van een HTML element
+- basis elementen
+- semantische elementen
+- semantic css framework: simple.css
+- attributen
+- basis CSS
+- selectors
+- hummus recept opmaken
+- absolute / relative links / hyperlinks
+- eerste website opmaken
+- npm script schrijven
+- npm package configuratie initiëren
+- website hosten via Surge
+- tooling: VS Code
+- tooling: terminal commands
+
+</details>
+
+### 06/10/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+  
+- padding / margin / border / content
+- Eric Meyer's reset.css
+- aligneren
+- afmeten van een ontwerp
+- CSS dinner, oefening op CSS selectors
+- flexbox froggy, oefening op Flexbox Froggy
+- wrapper
+- accessbility intro
+- Tesla design omzetten in HTML - part 1
+
+</details>
+
+### 13/10/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+  
+- herhaling basis HTML:
+  - anatomie HTML element
+  - HTML document structure
+  - HTML hierarchy, parent-child, nesting
+  - CSS selectors
+  - linking relative/absolute / navigatie
+  - link external scripts
+- layout in CSS:
+  - box model:
+    - box-sizing: border-content
+    - margin, border, padding, content
+  - position: absolute / position: relative
+  - flexbox (herhaling) met Flexbox Zombies
+  - CSS Grid (intro) met CSS Grid Garden
+- Kahoot test op herhaling basis HTML & layout in CSS
+- tooling: VS code
+- Tesla design omzetten in HTML - part 2
+  - list style images
+  - view width / view height
+  - modulair leren werken
+
+</details>
+
 
 ## Overzicht oefeningen
 
