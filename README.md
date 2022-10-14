@@ -1,4 +1,5 @@
 # Cursus HTML & CSS
+
 >FSD Syntra AB - 2023
 
 - [Github & Netlify](./github-netlify)
@@ -214,8 +215,7 @@ Met surge kunnen we relatief eenvoudig onze website online hosten. [https://www.
 
 command:
 
-	npm install --global surge
-
+ npm install --global surge
 
 ##### Some Code
 
@@ -225,12 +225,11 @@ command:
   }
   ```
 
-  ##### run surge first time
+##### run surge first time
 
-	surge
+ surge
 
 it will prompt for project folder confirmation & make a new host name for you
-
 
 ##### host the same version of your site gain
 
@@ -240,10 +239,10 @@ To host a new version of the same website, without surge proposing to host it in
 
 you should do:
 
-	 surge [project folder] [host name]
+  surge [project folder] [host name]
 
 example:
-	surge . karim-html-css-syntra_2023.surge.sh
+ surge . karim-html-css-syntra_2023.surge.sh
 
 </details>
 
@@ -259,9 +258,9 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 
 ## Resources
 
-* [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
-* [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
-* [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)
+- [https://www.edx.org/school/w3cx](https://www.edx.org/school/w3cx)
+- [https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/nl/docs/Learn/HTML/Introduction_to_HTML)
+- [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)
 
 ### Flexbox
 
