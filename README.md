@@ -176,6 +176,7 @@
 
 - [HTML cheat sheet](https://rogiervdl.github.io/HTML-course/cheatsheet.html)
 - [CSS cheat sheet](https://rogiervdl.github.io/CSS-course/cheatsheet.html)
+- [list of Semantic HTML elements on MDN](https://developer.mozilla.org/en-US/docs/Glossary/semantics#semantics_in_html)
 
 ### HTML Starting template
 
