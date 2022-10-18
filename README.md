@@ -21,7 +21,7 @@
 | 29/09/2022     | Basis HTML / CSS selectors / semantic / absolute/relative / VS Code / surge |
 | 06/10/2022     | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css |
 | 13/10/2022     | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design |
-| 20/10/2022     | TBD: Forms / Designs omzetten / Unit (px/em/rm/%/(ch)  |
+| 20/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten / *(Mss: Unit (px/em/rm/%/(ch))*  |
 
 ### 29/09/2022
 
@@ -141,7 +141,7 @@
 |----------------|-----------|
 | 29/09/2022     | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
 | 06/10/2022     | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)   |
-| 13/10/2022     | TBD  |
+| 13/10/2022     | Tesla Roadster v1  |
 
 ### Thuisopdrachten
 
@@ -176,6 +176,15 @@
 
 - [HTML cheat sheet](https://rogiervdl.github.io/HTML-course/cheatsheet.html)
 - [CSS cheat sheet](https://rogiervdl.github.io/CSS-course/cheatsheet.html)
+
+### HTML Starting template
+
+download [here](html_start_template.zip)
+
+contains:
+- html structure
+- link to Eric Meyer's reset.css
+- box-sizing: border-box
 
 ### Huisregels
 
