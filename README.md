@@ -21,7 +21,7 @@
 | 29/09/2022     | Basis HTML / CSS selectors / semantic / absolute/relative / VS Code / surge |
 | 06/10/2022     | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css |
 | 13/10/2022     | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design |
-| 20/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten / *(Mss: Unit (px/em/rm/%/(ch))*  |
+| 20/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten / Media Queries / Unit (px/em/rm/%/(ch))  |
 
 ### 29/09/2022
 
