@@ -2,6 +2,15 @@
 
 >FSD Syntra AB - 2023
 
+## FAQ - Frequently Asked Questions
+
+- [Frequently Asked Questions](./faq)
+
+## Basis les materiaal
+
+- [Frequently Asked Questions](./faq)
+
+
 - [Github & Netlify](./github-netlify)
 
 - [Introductie HTML & CSS](./les_01)
@@ -105,6 +114,40 @@
 
   - link external scripts
 
+- layout in CSS:
+
+  - box model:
+
+    - box-sizing: border-content
+
+    - margin, border, padding, content
+
+  - position: absolute / position: relative
+
+  - flexbox (herhaling) met Flexbox Zombies
+
+  - CSS Grid (intro) met CSS Grid Garden
+
+- Kahoot test op herhaling basis HTML & layout in CSS
+
+- tooling: VS code
+
+- Tesla design omzetten in HTML - part 2
+
+  - list style images
+
+  - view width / view height
+
+  - modulair leren werken
+
+</details>
+
+
+### 20/10/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+  
 - layout in CSS:
 
   - box model:
