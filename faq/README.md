@@ -2,7 +2,15 @@
 
 ## how to remove scroll but that's still working
 
-https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
+[https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
+
+---
+
+## how to add a line / border that is not as long as the content it is bordering on? 
+
+[https://stackoverflow.com/questions/4131490/any-way-to-limit-border-length](https://stackoverflow.com/questions/4131490/any-way-to-limit-border-length)
+
+---
 
 ## where to find free icons / logos
 
@@ -10,33 +18,44 @@ https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-bei
 
 [free icons on https://icomoon.io/](https://icomoon.io/#icons-icomoon)
 
-
-
 ### Font Awesome
 
 - [https://fontawesome.com/](https://fontawesome.com/)
 
-## main determinant of font size
+also see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) on finding web fonts
 
-flex-grow re-explain
+---
 
-eenmaal flex wrap gebeurt, kan je dan nog flex end forceren
+## how to remove scroll but that's still working?
 
-play with animations transform, 3D, animations / invert / blur
+[https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
 
-website met stage offers / erasmus hogeschool
+---
 
-https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/
+## priority questions
 
-uitleg
+- img stretch & background mountain / background sizing / cover
 
-:after
-:before
+- hoe gebruik ik een icon (svg) voor een li element?
 
-background sizing / cover
+- hoe fonts bepalen?
 
-ik wil een icon tonen voor een li
+## future list to be answered
 
-border fixed
+- main determinant of font size
 
-flex style not inherited, only by direct children
+- flex-grow re-explain
+
+- eenmaal flex wrap gebeurt, kan je dan nog flex end forceren?
+
+- refer website met stage offers / erasmus hogeschool?
+
+- uitleg :after / :before
+
+## to mark in gotcha's
+
+- flex style not inherited, only by direct children while other styles like font-size or background-color can be inherited by all descendants
+
+## nice to have
+
+- play with animations transform, 3D, animations / invert / blur
