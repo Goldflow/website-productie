@@ -10,7 +10,6 @@
 
 - [Frequently Asked Questions](./faq)
 
-
 - [Github & Netlify](./github-netlify)
 
 - [Introductie HTML & CSS](./les_01)
