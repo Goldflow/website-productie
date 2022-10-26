@@ -317,3 +317,7 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 
 - CSS Grid Garden
 - [https://cssgrid.io/](https://cssgrid.io/) door Web Bos
+
+### Semantic HTML elements
+
+- [https://guides.ou.edu/accessibility-reference/content/semantic-elements](https://guides.ou.edu/accessibility-reference/content/semantic-elements)

@@ -78,15 +78,9 @@ body {
 
 ## priority questions
 
-- img stretch & background mountain / background sizing / cover
-
 - hoe gebruik ik een icon (svg) voor een li element?
 
-- hoe fonts bepalen?
-
 ## future list to be answered
-
-- main determinant of font size
 
 - flex-grow re-explain
 
