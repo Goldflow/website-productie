@@ -2,6 +2,8 @@
 
 >FSD Syntra AB - 2023
 
+[Link overzicht gehoste oefeningen](https://karim-html-css-syntra_2023.surge.sh/)
+
 ## FAQ - Frequently Asked Questions
 
 - [Frequently Asked Questions](./faq)
@@ -306,6 +308,10 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 
 - Flexbox Froggy
 - [https://flexbox.io/](https://cssgrid.io/) door Web Bos
+
+#### Flexbox Examples
+
+- putting 4 boxes, 2 on each line, for max width 1600px [example](./flex-4-box)
 
 ### Grid
 

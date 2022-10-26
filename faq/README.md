@@ -22,7 +22,24 @@
 
 - [https://fontawesome.com/](https://fontawesome.com/)
 
-also see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) on finding web fonts
+
+---
+
+## How to make a box or image perfectly round?
+
+```CSS
+div {
+    border-radius: 50%;
+}
+```
+
+---
+
+## How to find / identify fonts?
+
+- see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comments/vicnxt/web_font_finding_tips/) on finding web fonts
+
+- google on "identify font"
 
 ---
 
@@ -32,9 +49,30 @@ also see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comm
 
 ---
 
+## How to stretch a background image?
+
+```CSS
+body {
+    /** set the url of the image **/
+    background-image: url(media/images/berg.png);
+    /** set image size to "cover, this will ensure the images always covers either the maximum amount of height of width (whatever it is reaching first) **/
+    background-size: cover; /** alternatively set to 100% **/
+}
+```
+
+## How to ensure background image is not repeated?
+
+```CSS
+body {
+    background-repeat: no-repeat;
+}
+```
+
 ## What is mainly determining the font size?
 
-[long answer](https://www.w3.org/TR/CSS2/fonts.html)
+- short answer: it's complicated. font-size refers to the height needed to display the gamut of characters (from below stack overflow:)
+- medium answer: [https://stackoverflow.com/questions/3495872/how-is-font-size-calculated/3496463#3496463](https://stackoverflow.com/questions/3495872/how-is-font-size-calculated/3496463#3496463)
+- [long answer](https://www.w3.org/TR/CSS2/fonts.html) - official W3 specifications
 
 ---
 
