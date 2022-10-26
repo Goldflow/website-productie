@@ -10,8 +10,6 @@
 
 - [Frequently Asked Questions](./faq)
 
-- [Github & Netlify](./github-netlify)
-
 - [Introductie HTML & CSS](./les_01)
 
 - [CSS & Selectors](./les_02)
@@ -20,7 +18,7 @@
 
 - [Structuur en navigatie in HTML](./les_04)
 
-- [Zelf website hosten + CSS Layout](./les_05)
+- [CSS Layout](./les_05)
 
 ## Overzicht Lessen
 
@@ -30,6 +28,7 @@
 | 06/10/2022     | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css |
 | 13/10/2022     | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design |
 | 20/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten / Media Queries / Unit (px/em/rm/%/(ch))  |
+| 27/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten  |
 
 ### 29/09/2022
 
@@ -147,31 +146,19 @@
 <details>
   <summary>klik hier voor overzicht</summary>
   
-- layout in CSS:
+- klassikaal design opbouwen FigJam
+- individueel design opbouwen van "Happy Clients"
 
-  - box model:
+</details>
 
-    - box-sizing: border-content
 
-    - margin, border, padding, content
 
-  - position: absolute / position: relative
+### 27/10/2022
 
-  - flexbox (herhaling) met Flexbox Zombies
-
-  - CSS Grid (intro) met CSS Grid Garden
-
-- Kahoot test op herhaling basis HTML & layout in CSS
-
-- tooling: VS code
-
-- Tesla design omzetten in HTML - part 2
-
-  - list style images
-
-  - view width / view height
-
-  - modulair leren werken
+<details>
+  <summary>klik hier voor overzicht</summary>
+  
+- klassikaal design opbouwen van "Happy Clients"
 
 </details>
 
@@ -183,6 +170,7 @@
 |----------------|-----------|
 | 29/09/2022     | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
 | 06/10/2022     | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)   |
+| 13/10/2022     | Tesla Roadster v1  |
 | 13/10/2022     | Tesla Roadster v1  |
 
 ### Thuisopdrachten

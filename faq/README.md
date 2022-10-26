@@ -6,7 +6,7 @@
 
 ---
 
-## how to add a line / border that is not as long as the content it is bordering on? 
+## how to add a line / border that is not as long as the content it is bordering on?
 
 [https://stackoverflow.com/questions/4131490/any-way-to-limit-border-length](https://stackoverflow.com/questions/4131490/any-way-to-limit-border-length)
 
@@ -29,6 +29,12 @@ also see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comm
 ## how to remove scroll but that's still working?
 
 [https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
+
+---
+
+## What is mainly determining the font size?
+
+[long answer](https://www.w3.org/TR/CSS2/fonts.html)
 
 ---
 
@@ -59,3 +65,11 @@ also see: [this link from Reddit](https://www.reddit.com/r/identifythisfont/comm
 ## nice to have
 
 - play with animations transform, 3D, animations / invert / blur
+
+---
+
+What is mainly determining the font size?
+
+[long answer](https://www.w3.org/TR/CSS2/fonts.html)
+
+---
