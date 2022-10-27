@@ -318,6 +318,10 @@ Een site waar je dingen makkelijk kan uitproberen en dan delen. Je kan ook veel 
 - CSS Grid Garden
 - [https://cssgrid.io/](https://cssgrid.io/) door Web Bos
 
+### Position Relative / Absolute
+
+- [https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6#:~:text=In%20a%20nutshell%20%E2%80%A6,changing%20the%20layout%20around%20it](https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6#:~:text=In%20a%20nutshell%20%E2%80%A6,changing%20the%20layout%20around%20it)
+
 ### Semantic HTML elements
 
 - [https://guides.ou.edu/accessibility-reference/content/semantic-elements](https://guides.ou.edu/accessibility-reference/content/semantic-elements)

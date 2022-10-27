@@ -76,6 +76,12 @@ body {
 
 ---
 
+## how to change default branch (e.g. from master to main)?
+
+[https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch)
+
+---
+
 ## priority questions
 
 - hoe gebruik ik een icon (svg) voor een li element?
