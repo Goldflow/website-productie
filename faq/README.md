@@ -89,6 +89,7 @@ body {
 - refer website met stage offers / erasmus hogeschool?
 
 - uitleg :after / :before
+[https://developer.mozilla.org/en-US/docs/Web/CSS/::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
 ## to mark in gotcha's
 
