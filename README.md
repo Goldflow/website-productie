@@ -159,7 +159,8 @@
 
 <details>
   <summary>klik hier voor overzicht</summary>
-  
+- pseudo elements
+- position: relative / absolute
 - klassikaal design opbouwen van "Happy Clients"
 
 </details>
@@ -172,7 +173,6 @@
 |----------------|-----------|
 | 29/09/2022     | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
 | 06/10/2022     | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)   |
-| 13/10/2022     | Tesla Roadster v1  |
 | 13/10/2022     | Tesla Roadster v1  |
 
 ### Thuisopdrachten
