@@ -157,7 +157,7 @@
 <details>
   <summary>klik hier voor overzicht</summary>
   
-- pseudo elements
+- pseudo elements; after / before
 
 - position: relative / absolute
 
@@ -184,7 +184,7 @@
 
 - Adobe Color intro + extract theme [https://color.adobe.com/](https://color.adobe.com/)
 
-- One Pager nabouwen ([link naar bronmateriaal / design](_/8_onepager.zip))
+- One Pager nabouwen ([link naar bronmateriaal / design](./_/8_onepager.zip))
 
 - forms [W3 Schools ref](https://www.w3schools.com/html/html_forms.asp)
 
