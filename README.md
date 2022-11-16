@@ -207,11 +207,11 @@
 | 29/09/2022 | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
 | 06/10/2022 | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)        |
 | 13/10/2022 | Tesla Roadster v1                                                                      |
-| 20/10/2022 | FigJam ([link naar bronmateriaal / design](_/2_figjam.zip))                                                                      |
-| 27/10/2022 | Happy clients ([link naar bronmateriaal / design](_/10_happyclients.zip)) |
-| 27/10/2022 | Portfolio (optionele oefening) ([link naar bronmateriaal / design](_/6_portfolio.zip))                                                                      |
-| 27/10/2022 | Mountain ([link naar bronmateriaal / design](_/7_mountain.zip))                                                                      |
-| 17/11/2022 | One Pager ([link naar bronmateriaal / design](_/8_onepager.zip))                                                                      |
+| 20/10/2022 | FigJam ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/2_figjam.zip))                                                                      |
+| 27/10/2022 | Happy clients  ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/10_happyclients.zip))       |
+| 27/10/2022 | Portfolio (optionele oefening) ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/8_onepager.zip))                                                                      |
+| 27/10/2022 | Mountain ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/7_mountain.zip))                                                                      |
+| 17/11/2022 | One Pager ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/8_onepager.zip))                                                                        |
 | 17/11/2022 | Simple Hamburger Menu - combining media query,  dropdown & Adobe Color   |
 
 ### Thuisopdrachten
