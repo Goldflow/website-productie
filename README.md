@@ -1,6 +1,6 @@
 # Cursus HTML & CSS
 
->FSD Syntra AB - 2023
+> FSD Syntra AB - 2023
 
 [Link overzicht gehoste oefeningen](https://karim-html-css-syntra_2023.surge.sh/)
 
@@ -24,13 +24,13 @@
 
 ## Overzicht Lessen
 
-| Datum       | Les inhoud     |
-|----------------|-----------|
-| 29/09/2022     | Basis HTML / CSS selectors / semantic / absolute/relative / VS Code / surge |
-| 06/10/2022     | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css |
-| 13/10/2022     | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design |
-| 20/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten / Media Queries / Unit (px/em/rm/%/(ch))  |
-| 27/10/2022     | Theorie tot nu toe toepassen in praktijk - designs omzetten  |
+| Datum      | Les inhoud                                                                                           |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| 29/09/2022 | Basis HTML / CSS selectors / semantic / absolute/relative / VS Code / surge                          |
+| 06/10/2022 | CSS Dinner / Flexbox (Froggy) / box model part 1 / reset.css                                         |
+| 13/10/2022 | Herhaling Basis HTML / CSS herhaling / intro CSS Grid / herhaling flexbox / afmaken eerste design    |
+| 20/10/2022 | Theorie tot nu toe toepassen in praktijk - designs omzetten / Media Queries / Unit (px/em/rm/%/(ch)) |
+| 27/10/2022 | Theorie tot nu toe toepassen in praktijk - designs omzetten                                          |
 
 ### 29/09/2022
 
@@ -102,17 +102,17 @@
   
 - herhaling basis HTML:
 
-  - anatomie HTML element
+- anatomie HTML element
 
-  - HTML document structure
+- HTML document structure
 
-  - HTML hierarchy, parent-child, nesting
+- HTML hierarchy, parent-child, nesting
 
-  - CSS selectors
+- CSS selectors
 
-  - linking relative/absolute / navigatie
+- linking relative/absolute / navigatie
 
-  - link external scripts
+- link external scripts
 
 - layout in CSS:
 
@@ -142,26 +142,59 @@
 
 </details>
 
-
 ### 20/10/2022
 
 <details>
   <summary>klik hier voor overzicht</summary>
-  
-- klassikaal design opbouwen FigJam
-- individueel design opbouwen van "Happy Clients"
-
+  <ul>
+<li> klassikaal design opbouwen FigJam</li>
+<li> individueel design opbouwen van "Happy Clients"</li>
+</ul>
 </details>
-
-
 
 ### 27/10/2022
 
 <details>
   <summary>klik hier voor overzicht</summary>
+  
 - pseudo elements
+
 - position: relative / absolute
+
 - klassikaal design opbouwen van "Happy Clients"
+
+- individueel start van "Mountain"
+
+- extra oefening: "Portfolio"
+
+</details>
+
+### 17/11/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+
+- herhaling: media queries
+
+- herhaling absolute/relative linking & id linking
+
+- Mountain oefening maken
+
+- Simple Dropdown Oef. [link W3](https://www.w3schools.com/Css/css_dropdowns.asp)
+
+- Adobe Color intro + extract theme [https://color.adobe.com/](https://color.adobe.com/)
+
+- One Pager nabouwen ([link naar bronmateriaal / design](_/8_onepager.zip))
+
+- forms [W3 Schools ref](https://www.w3schools.com/html/html_forms.asp)
+
+- optioneel, automatisch website deployen met surge wanneer je commit ([link](https://surge.sh/help/deploying-continuously-using-git-hooks))
+
+- herhaling: responsiveness [https://www.w3schools.com/Css/css_rwd_intro.asp](https://www.w3schools.com/Css/css_rwd_intro.asp)
+
+- basic grid [https://www.w3schools.com/Css/css_grid.asp](https://www.w3schools.com/Css/css_grid.asp)
+
+- responsive grid oefening [link](https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe)
 
 </details>
 
@@ -169,18 +202,24 @@
 
 ### Oefeningen in klas
 
-| Datum          | Price     |
-|----------------|-----------|
-| 29/09/2022     | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
-| 06/10/2022     | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)   |
-| 13/10/2022     | Tesla Roadster v1  |
+| Datum      | Price                                                                                  |
+| ---------- | -------------------------------------------------------------------------------------- |
+| 29/09/2022 | [Recept Pagina Opmaken](https://goldflow.github.io/website-productie/opdracht-recept/) |
+| 06/10/2022 | [CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/)        |
+| 13/10/2022 | Tesla Roadster v1                                                                      |
+| 20/10/2022 | FigJam ([link naar bronmateriaal / design](_/2_figjam.zip))                                                                      |
+| 27/10/2022 | Happy clients ([link naar bronmateriaal / design](_/10_happyclients.zip)) |
+| 27/10/2022 | Portfolio (optionele oefening) ([link naar bronmateriaal / design](_/6_portfolio.zip))                                                                      |
+| 27/10/2022 | Mountain ([link naar bronmateriaal / design](_/7_mountain.zip))                                                                      |
+| 17/11/2022 | One Pager ([link naar bronmateriaal / design](_/8_onepager.zip))                                                                      |
+| 17/11/2022 | Simple Hamburger Menu - combining media query,  dropdown & Adobe Color   |
 
 ### Thuisopdrachten
 
-| Deadline       | Price     |
-|----------------|-----------|
-| 13/10/2022     |[Zelf Studie - Intro HTML and CSS - Lesson 1](./voorbereiding-udacity-1)   |
-| 20/10/2022     | Voorbereiding Design  |
+| Deadline   | Price                                                                    |
+| ---------- | ------------------------------------------------------------------------ |
+| 13/10/2022 | [Zelf Studie - Intro HTML and CSS - Lesson 1](./voorbereiding-udacity-1) |
+| 20/10/2022 | Voorbereiding Design                                                     |
 
 <!---
 [OPDRACHT: CSS Dinner](https://goldflow.github.io/website-productie/opdracht-css-dinner/) tegen 08/01/2021 om 12h00
@@ -215,6 +254,7 @@
 download [here](html_start_template.zip)
 
 contains:
+
 - html structure
 - link to Eric Meyer's reset.css
 - box-sizing: border-box
@@ -253,23 +293,23 @@ Met surge kunnen we relatief eenvoudig onze website online hosten. [https://www.
   
 ##### Installing surge
 
- can be installed with npm
+can be installed with npm
 
 command:
 
- npm install --global surge
+npm install --global surge
 
 ##### Some Code
 
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+```js
+function logSomething(something) {
+  console.log("Something", something);
+}
+```
 
 ##### run surge first time
 
- surge
+surge
 
 it will prompt for project folder confirmation & make a new host name for you
 
@@ -281,10 +321,10 @@ To host a new version of the same website, without surge proposing to host it in
 
 you should do:
 
-  surge [project folder] [host name]
+surge [project folder] [host name]
 
 example:
- surge . karim-html-css-syntra_2023.surge.sh
+surge . karim-html-css-syntra_2023.surge.sh
 
 </details>
 
