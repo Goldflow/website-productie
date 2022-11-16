@@ -157,15 +157,19 @@
 <details>
   <summary>klik hier voor overzicht</summary>
   
-- pseudo elements; after / before
+<ul>
+  <li>pseudo elements; after / before</li>
 
-- position: relative / absolute
+  <li>position: relative / absolute</li>
 
-- klassikaal design opbouwen van "Happy Clients"
+  <li>klassikaal design opbouwen van "Happy Clients"</li>
 
-- individueel start van "Mountain"
+  <li>individueel start van "Mountain"</li>
 
-- extra oefening: "Portfolio"
+  <li>extra oefening: "Portfolio"</li>
+</ul>
+
+
 
 </details>
 
@@ -173,29 +177,19 @@
 
 <details>
   <summary>klik hier voor overzicht</summary>
-
-- herhaling: media queries
-
-- herhaling absolute/relative linking & id linking
-
-- Mountain oefening maken
-
-- Simple Dropdown Oef. [link W3](https://www.w3schools.com/Css/css_dropdowns.asp)
-
-- Adobe Color intro + extract theme [https://color.adobe.com/](https://color.adobe.com/)
-
-- One Pager nabouwen ([link naar bronmateriaal / design](./_/8_onepager.zip))
-
-- forms [W3 Schools ref](https://www.w3schools.com/html/html_forms.asp)
-
-- optioneel, automatisch website deployen met surge wanneer je commit ([link](https://surge.sh/help/deploying-continuously-using-git-hooks))
-
-- herhaling: responsiveness [https://www.w3schools.com/Css/css_rwd_intro.asp](https://www.w3schools.com/Css/css_rwd_intro.asp)
-
-- basic grid [https://www.w3schools.com/Css/css_grid.asp](https://www.w3schools.com/Css/css_grid.asp)
-
-- responsive grid oefening [link](https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe)
-
+<ul>
+ <li> herhaling: media queries </li>
+ <li> herhaling absolute/relative linking & id linking </li>
+ <li> Mountain oefening maken </li>
+ <li> Simple Dropdown Oef. <a href="https://www.w3schools.com/Css/css_dropdowns.asp">link</a></li>
+ <li> Adobe Color intro + extract theme <a href="https://color.adobe.com/">link</a> </li>
+ <li> One Pager nabouwen - voor link bron materiaal scroll down </li>
+ <li> forms <a href="https://www.w3schools.com/html/html_forms.asp">link</a></li>
+ <li> optioneel, automatisch website deployen met surge wanneer je commit <a href="https://surge.sh/help/deploying-continuously-using-git-hooks">link</a></li>
+ <li> herhaling: responsiveness <a href="https://www.w3schools.com/Css/css_rwd_intro.asp">link</a></li>
+ <li> basic grid <a href="https://www.w3schools.com/Css/css_grid.asp">link</a></li>
+ <li> responsive grid oefening <a href="https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe">link</a></li>
+</ul>
 </details>
 
 ## Overzicht oefeningen
