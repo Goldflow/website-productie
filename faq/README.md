@@ -31,6 +31,28 @@ on the parent of the element that you want to center set display flex & justify 
 
 ---
 
+## how put two or more elements next to eachother
+
+on the parent of the elements you want to put next to eachother: set display flex & justify content as e.g. space-around (this is just one of the ways of doing it)
+
+[more info on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+
+```HTML
+<section>
+    <article>element to center</article>
+    <article>element to center</article>
+ </section>
+```
+
+```CSS
+section {
+    display: flex;
+    justify-content: space-around;
+}
+```
+
+---
+
 ## when creating a grid, sometimes it is expanding & not taking in to account the gap?
 
 standard, when using fractions e.g. 1fr it will use 1 fraction of the available space
