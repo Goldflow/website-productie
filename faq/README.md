@@ -12,6 +12,44 @@
 
 ---
 
+## how center an element?
+
+on the parent of the element that you want to center set display flex & justify content as center (this is just one of the ways of doing it)
+
+```HTML
+<section class="parent">
+    <article>element to center</article>
+ </section>
+```
+
+```CSS
+.parent {
+    display: flex;
+    justify-content: center;
+}
+```
+
+---
+
+## when creating a grid, sometimes it is expanding & not taking in to account the gap?
+
+standard, when using fractions e.g. 1fr it will use 1 fraction of the available space
+
+to ensure that instead we only use the maximum size of the object; we can use "max-content"
+
+e.g. this will define a grid 5 by 5, with a gap of 50px
+
+```CSS
+.grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, max-content);
+    grid-template-rows: repeat(5, max-content);
+    gap: 50px
+}
+```
+
+---
+
 ## where to find free icons / logos
 
 ### Icomoon
@@ -106,6 +144,8 @@ body {
 - play with animations transform, 3D, animations / invert / blur
 
 ---
+
+
 
 What is mainly determining the font size?
 
