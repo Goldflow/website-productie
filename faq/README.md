@@ -53,6 +53,21 @@ section {
 
 ---
 
+## when setting background image, how to ensure stays positioned in the center, regardless if parts of the image are lost
+
+[https://stackoverflow.com/questions/47324360/background-size-cover-center-not-working
+](https://stackoverflow.com/questions/47324360/background-size-cover-center-not-working
+)
+
+```CSS
+section {
+    /* background-image: ...; */
+    background-size: cover;
+    background-positon: center center; /* center in both x & y axis */
+}
+```
+---
+
 ## when creating a grid, sometimes it is expanding & not taking in to account the gap?
 
 standard, when using fractions e.g. 1fr it will use 1 fraction of the available space
