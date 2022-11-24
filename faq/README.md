@@ -270,9 +270,28 @@ see this video [here](https://youtu.be/Qgyg-SRr-UQ?t=1045)
 
 ---
 
-## I want to show an animation on a photo gallery, how could I do this?
+## I want to show an simple transation / animation on a photo, how could I do this?
 
-see how Kevin Powel does it: [https://youtu.be/OGJvhpoE8b4?t=701](https://youtu.be/OGJvhpoE8b4?t=701)
+simple:
+
+```CSS
+img {
+    /* this indicates that:
+    - we need to go to & back from the original value in this selector
+    - for the properties scale & filter
+    - within 300ms & 500ms respectively
+    - using an "ease" animation
+    */
+  transition: scale 300ms ease, filter 500ms ease;
+}
+
+img:hover {
+  scale: 1.1; /*will set the scale of the image on hover*/
+  filter: contrast(120%); /*will set the filter on hover*/
+}
+```
+
+or see more advanced way how Kevin Powell does it: [https://youtu.be/OGJvhpoE8b4?t=701](https://youtu.be/OGJvhpoE8b4?t=701)
 
 ---
 
