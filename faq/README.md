@@ -82,7 +82,6 @@ e.g. this will define a grid 5 by 5, with a gap of 50px
 
 - [https://fontawesome.com/](https://fontawesome.com/)
 
-
 ---
 
 ## How to make a box or image perfectly round?
@@ -188,7 +187,6 @@ some points;
 
 - CSS grid will setup the space & the children will take up the space that is put available
 
-
 A question you can ask yourself is, do I want the elements to take up their own size (flexbox) or do I want them to all be aligned equally (grid)?
 
 more details on how to decide - also by KP [here](https://www.youtube.com/watch?v=3elGSZSWTbM)
@@ -203,7 +201,9 @@ more details on how to decide - also by KP [here](https://www.youtube.com/watch?
 
 - great resource by Rachel Andrew [https://gridbyexample.com/](https://gridbyexample.com/)
 
-- Kevin Powel video [https://www.youtube.com/watch?v=rg7Fvvl3taU](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+- Kevin Powel video on CSS grid [https://www.youtube.com/watch?v=rg7Fvvl3taU](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+
+- Kevin Powel video on responsive grid [here](https://www.youtube.com/watch?v=sKFW3wek21Q)
 
 - Wes Bos' [https://cssgrid.io/](https://cssgrid.io/)
 
@@ -215,7 +215,56 @@ more details on how to decide - also by KP [here](https://www.youtube.com/watch?
 
 ---
 
-### grid template areas - what are they & how to use?
+## how to use minmax() css property to attain responsive grid? [responsive grid]
+
+in this line:
+
+> minmax(220px, 1fr)
+
+220px will stand for minimum value
+1fr for the maximum value (which is one fraction)
+
+this will come down to: at minimum always showing a width of 220px for each cell & maximum using 1 fraction
+
+```CSS
+main > section.portfolio-section > div {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+```
+
+more info here [https://www.hongkiat.com/blog/css-grid-layout-minmax/](https://www.hongkiat.com/blog/css-grid-layout-minmax/)
+
+---
+
+## grid template areas - what are they & how to use? [responsive grid]
+
+way to design first using a grid
+
+then place elements on the grid & re-arrange using media queries
+
+e.g.
+
+```CSS
+.site {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 1fr 3fr;
+    grid-template-areas:
+    "title title"
+    "main header"
+    "main sidebar"
+}
+
+@media screen and (min-width: 34em) {
+    .site {
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-areas:
+    "title title title"
+    "main header header"
+    "main sidebar footer"
+    }
+}
+```
 
 see this video [here](https://youtu.be/Qgyg-SRr-UQ?t=1045)
 
@@ -227,15 +276,24 @@ see how Kevin Powel does it: [https://youtu.be/OGJvhpoE8b4?t=701](https://youtu.
 
 ---
 
-## need more info on pseud selectors?
+## need more info on pseudo selectors?
 
 ### :after / :before
 
- :after / :before [https://developer.mozilla.org/en-US/docs/Web/CSS/::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
+:after / :before [https://developer.mozilla.org/en-US/docs/Web/CSS/::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
 
 ### :has
 
 nice video [here](https://www.youtube.com/watch?v=OGJvhpoE8b4)
+
+e.g.
+
+```CSS
+.img-gallery:has(img:hover) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+```
 
 ## priority questions
 
