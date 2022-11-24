@@ -179,16 +179,33 @@
   <summary>klik hier voor overzicht</summary>
 <ul>
  <li> herhaling: media queries </li>
- <li> herhaling absolute/relative linking & id linking </li>
  <li> Mountain oefening maken </li>
- <li> Simple Dropdown Oef. <a href="https://www.w3schools.com/Css/css_dropdowns.asp">link</a></li>
+  <li> Klassikaal Portfolio nabouwen pt1 </li>
  <li> Adobe Color intro + extract theme <a href="https://color.adobe.com/">link</a> </li>
- <li> One Pager nabouwen - voor link bron materiaal scroll down </li>
- <li> forms <a href="https://www.w3schools.com/html/html_forms.asp">link</a></li>
- <li> optioneel, automatisch website deployen met surge wanneer je commit <a href="https://surge.sh/help/deploying-continuously-using-git-hooks">link</a></li>
  <li> herhaling: responsiveness <a href="https://www.w3schools.com/Css/css_rwd_intro.asp">link</a></li>
  <li> basic grid <a href="https://www.w3schools.com/Css/css_grid.asp">link</a></li>
- <li> responsive grid oefening <a href="https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe">link</a></li>
+ <li> optioneel, automatisch website deployen met surge wanneer je commit <a href="https://surge.sh/help/deploying-continuously-using-git-hooks">link</a> (not done)</li>
+</ul>
+</details>
+
+### 24/11/2022
+
+<details>
+  <summary>klik hier voor overzicht</summary>
+<ul>
+ <li> herhaling: media queries </li>
+ <li> herhaling absolute/relative linking & id linking </li>
+ <li> Mountain oefening maken </li>
+ <li> Klassikaal Portfolio nabouwen pt2 </li>
+ <li> Simple Dropdown Oef. <a href="https://www.w3schools.com/Css/css_dropdowns.asp">link</a></li>
+ <li> forms <a href="https://www.w3schools.com/html/html_forms.asp">link</a></li>
+ <li> herhaling: responsiveness <a href="https://www.w3schools.com/Css/css_rwd_intro.asp">link</a></li>
+ <li> responsive grid (vb <a href="https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe">link</a> + see FAQ)</li>
+  <li> standaard site namaken met grid </li>
+  <li> bootstrap intro </li>
+  <li> bootstrap oefening </li>
+  <li> simple transition (see FAQ)</li>
+ <li> One Pager nabouwen - voor link bron materiaal scroll down </li>  
 </ul>
 </details>
 
