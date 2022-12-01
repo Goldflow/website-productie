@@ -1,10 +1,10 @@
 # Frequently Asked Questions
 
-## I want that a child element only changes when it's parent is hovered on, how do I do this?
+## I want that a child element only changes when it's parent is hovered on but not when I hover on the child only, how do I do this?
 
 ```CSS
-.parent:hover .child {
-    /* do something different on the child element which only triggers when the parent is hovered */
+.parent:hover .child { /* here we make a selector that only selects the child if the parent is hovered on */
+    /* do something different on the child element which only triggers when the parent is hovered, but not when only hovered on the child */
     background-color: red;
 }
 ```
