@@ -1,5 +1,16 @@
 # Frequently Asked Questions
 
+## I want that a child element only changes when it's parent is hovered on, how do I do this?
+
+```CSS
+.parent:hover .child {
+    /* do something different on the child element which only triggers when the parent is hovered */
+    background-color: red;
+}
+```
+
+---
+
 ## when using absolute position, how to center that element?
 
 ```CSS
