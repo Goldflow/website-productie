@@ -1,5 +1,18 @@
 # Frequently Asked Questions
 
+## when using absolute position, how to center that element?
+
+```CSS
+  width: 100px; /* we set the width of the element fixed */
+  position: absolute;
+  /* as we know the full width of the element is 100px 
+  we can calculate where it should come so it will be centered
+  - we position the element at 50%; this makes the element start from the middle of it's parent
+  - then we reduce 50px (so 100px/2); so that instead that the element starts from the middle of the parent, it'll start from the middle, minus the half of the element itself - this will result in centered element
+  */
+  left: calc(50% - 50px);
+```
+
 ## how to remove scroll but that's still working
 
 [https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll](https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll)
