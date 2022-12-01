@@ -63,7 +63,7 @@ section {
 section {
     /* background-image: ...; */
     background-size: cover;
-    background-positon: center center; /* center in both x & y axis */
+    background-position: center center; /* center in both x & y axis */
 }
 ```
 ---
