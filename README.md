@@ -223,7 +223,8 @@
 | 27/10/2022 | Portfolio (optionele oefening) ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/8_onepager.zip))                                                                      |
 | 27/10/2022 | Mountain ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/7_mountain.zip))                                                                      |
 | 17/11/2022 | One Pager ([link naar bronmateriaal / design](https://github.com/Goldflow/website-productie/blob/main/_/8_onepager.zip))                                                                        |
-| 17/11/2022 | Simple Hamburger Menu - combining media query,  dropdown & Adobe Color   |
+| 17/11/2022 | Combining media query,  dropdown & Adobe Color   |
+| 01/12/2022 | Examen - [Link](./examen-syntra-html-2022/) |
 
 ### Thuisopdrachten
 

@@ -1,0 +1,40 @@
+/* drie basisstijlregels om je te helpen */
+:root {
+  font-size: 62.5%; /* zet je dit op 62.5%, dan is elke rem 10px waard, anders 16px */
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* color variabelen */
+
+:root {
+  --primary: rgb(51, 204, 197);
+  --secondary: rgb(71, 113, 203);
+  --secondary-title: rgb(8, 142, 195); /* blue color in titles */
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* global styles */
+
+/* nav */
+
+/* header */
+
+/* main */
+
+/* features */
+
+/* about */
+
+/* portfolio */
+
+/* responsive - media query */
